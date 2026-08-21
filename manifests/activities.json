@@ -1,0 +1,933 @@
+{
+  "schemaVersion": "1.0.0",
+  "course": "Primary Industries",
+  "qualificationCode": "AHC20122",
+  "routeOwner": "AHC20122 Primary Industries course site",
+  "routeBase": "activities/",
+  "sourcePlan": "work/pi/site-data/activity-plan.json",
+  "sourceCourseMap": "work/pi/site-data/course.json",
+  "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+  "storageNamespace": "tas:primary-industries:ahc20122:2026:activity:v1:",
+  "activityCount": 13,
+  "printableCount": 13,
+  "activities": [
+    {
+      "id": "farm-hazard-decision-scan",
+      "taskId": "task-01",
+      "title": "Farm hazard decision scan",
+      "route": "activities/farm-hazard-decision-scan.html",
+      "printable": "printables/farm-safety-scan.html",
+      "moduleIds": [
+        "task-01-01",
+        "task-01-02",
+        "task-01-03",
+        "task-01-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-01-01",
+          "title": "Farm safety roles and authority",
+          "route": "modules/task-01-01-farm-safety-roles.html"
+        },
+        {
+          "id": "task-01-02",
+          "title": "Hazards, risks and changing conditions",
+          "route": "modules/task-01-02-hazards-risks-conditions.html"
+        },
+        {
+          "id": "task-01-03",
+          "title": "Controls, PPE and residual risk",
+          "route": "modules/task-01-03-controls-and-residual-risk.html"
+        },
+        {
+          "id": "task-01-04",
+          "title": "Consult, report and learn from incidents",
+          "route": "modules/task-01-04-consult-report-review.html"
+        }
+      ],
+      "mechanic": "Inspect a fictional farm scene, classify hazard and possible harm, then choose a hierarchy-aligned action and reporting path with option-specific feedback.",
+      "mechanics": [
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:farm-hazard-decision-scan",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:farm-hazard-decision-scan",
+      "savedRecord": "A de-identified hazard-risk-control-report chain plus one review action.",
+      "evidenceSchema": [
+        {
+          "id": "summary",
+          "label": "Decision summary",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "evidence",
+          "label": "Evidence used",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "next-check",
+          "label": "Next authorised check",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "The local risk matrix, emergency plan and site controls remain teacher/workplace controlled.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/farm-hazard-decision-scan.html",
+        "printables/farm-safety-scan.html"
+      ]
+    },
+    {
+      "id": "supervisor-brief-work-plan",
+      "taskId": "task-02",
+      "title": "Turn a supervisor brief into a work plan",
+      "route": "activities/supervisor-brief-work-plan.html",
+      "printable": "printables/work-plan-and-handover.html",
+      "moduleIds": [
+        "task-02-01",
+        "task-02-02",
+        "task-02-03",
+        "task-02-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-02-01",
+          "title": "Roles, instructions and scope of authority",
+          "route": "modules/task-02-01-roles-instructions-authority.html"
+        },
+        {
+          "id": "task-02-02",
+          "title": "Work plans, priorities and time",
+          "route": "modules/task-02-02-work-plans-priorities.html"
+        },
+        {
+          "id": "task-02-03",
+          "title": "Workplace records and routine calculations",
+          "route": "modules/task-02-03-records-calculations.html"
+        },
+        {
+          "id": "task-02-04",
+          "title": "Teamwork, feedback and workplace issues",
+          "route": "modules/task-02-04-teamwork-feedback-issues.html"
+        }
+      ],
+      "mechanic": "Extract purpose, sequence, dependencies, timing and reporting points from a fictional supervisor brief, then repair an incomplete work record.",
+      "mechanics": [
+        "sequence",
+        "calculations",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:supervisor-brief-work-plan",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:supervisor-brief-work-plan",
+      "savedRecord": "A sequenced work plan, checked calculation and concise handover note.",
+      "evidenceSchema": [
+        {
+          "id": "plan-summary",
+          "label": "Sequenced work-plan summary",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "calculation-check",
+          "label": "Calculation and reasonableness check",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "handover-note",
+          "label": "Final handover",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Current workplace forms, priorities and escalation channels control real work.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/supervisor-brief-work-plan.html",
+        "printables/work-plan-and-handover.html"
+      ]
+    },
+    {
+      "id": "tractor-stop-confirm-board",
+      "taskId": "task-03",
+      "title": "Tractor start, stop or confirm decisions",
+      "route": "activities/tractor-stop-confirm-board.html",
+      "printable": "printables/tractor-readiness-record.html",
+      "moduleIds": [
+        "task-03-01",
+        "task-03-02",
+        "task-03-03",
+        "task-03-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-03-01",
+          "title": "Match task, tractor, terrain and authority",
+          "route": "modules/task-03-01-task-tractor-terrain.html"
+        },
+        {
+          "id": "task-03-02",
+          "title": "Pre-start inspection and defect decisions",
+          "route": "modules/task-03-02-prestart-defect-decisions.html"
+        },
+        {
+          "id": "task-03-03",
+          "title": "Farm traffic, attachments and exclusion zones",
+          "route": "modules/task-03-03-traffic-attachments-exclusion.html"
+        },
+        {
+          "id": "task-03-04",
+          "title": "Usage records, handover and review",
+          "route": "modules/task-03-04-usage-handover-review.html"
+        }
+      ],
+      "mechanic": "Branch through fictional task, terrain, authority, pre-start, traffic and handover evidence to decide start, stop or confirm—without operating instructions.",
+      "mechanics": [
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:tractor-stop-confirm-board",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:tractor-stop-confirm-board",
+      "savedRecord": "A four-scenario decision log identifying the observation, decision, report and next authorised check.",
+      "evidenceSchema": [
+        {
+          "id": "decision-pattern",
+          "label": "Decision pattern across the four cards",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "best-evidence",
+          "label": "Most important observation and why",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "next-authority",
+          "label": "Next authorised check",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Manufacturer instructions, local SOPs, authorisation, supervision and practical demonstration control tractor operation.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/tractor-stop-confirm-board.html",
+        "printables/tractor-readiness-record.html"
+      ]
+    },
+    {
+      "id": "biosecurity-pathway-trace",
+      "taskId": "task-04",
+      "title": "Trace a biosecurity pathway",
+      "route": "activities/biosecurity-pathway-trace.html",
+      "printable": "printables/biosecurity-work-plan.html",
+      "moduleIds": [
+        "task-04-01",
+        "task-04-02",
+        "task-04-03",
+        "task-04-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-04-01",
+          "title": "Biosecurity pathways and zones",
+          "route": "modules/task-04-01-pathways-zones.html"
+        },
+        {
+          "id": "task-04-02",
+          "title": "Inspect machinery, tools and equipment",
+          "route": "modules/task-04-02-inspect-equipment.html"
+        },
+        {
+          "id": "task-04-03",
+          "title": "Build a clean-down work plan",
+          "route": "modules/task-04-03-cleandown-plan.html"
+        },
+        {
+          "id": "task-04-04",
+          "title": "Records, release checks and escalation",
+          "route": "modules/task-04-04-records-release-escalation.html"
+        }
+      ],
+      "mechanic": "Trace contamination through a fictional property movement map, mark inspection points, sequence planning fields and escalate unresolved evidence.",
+      "mechanics": [
+        "select-table",
+        "sequence",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:biosecurity-pathway-trace",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:biosecurity-pathway-trace",
+      "savedRecord": "A pathway map, inspection note, source-controlled plan outline and release/escalation decision.",
+      "evidenceSchema": [
+        {
+          "id": "pathway-summary",
+          "label": "Pathway summary",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "inspection-note",
+          "label": "Inspection evidence",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "release-escalation",
+          "label": "Release or escalation decision",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Local property-entry rules, products, clean-down steps and release criteria are not supplied by this activity.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/biosecurity-pathway-trace.html",
+        "printables/biosecurity-work-plan.html"
+      ]
+    },
+    {
+      "id": "livestock-observation-room",
+      "taskId": "task-05",
+      "title": "Livestock observation room",
+      "route": "activities/livestock-observation-room.html",
+      "printable": "printables/livestock-observation-record.html",
+      "moduleIds": [
+        "task-05-01",
+        "task-05-02",
+        "task-05-03",
+        "task-05-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-05-01",
+          "title": "Read livestock behaviour and the environment",
+          "route": "modules/task-05-01-behaviour-environment.html"
+        },
+        {
+          "id": "task-05-02",
+          "title": "Plan roles for a supervised livestock movement",
+          "route": "modules/task-05-02-movement-roles-plan.html"
+        },
+        {
+          "id": "task-05-03",
+          "title": "Observe condition and report change",
+          "route": "modules/task-05-03-observe-report-change.html"
+        },
+        {
+          "id": "task-05-04",
+          "title": "Handling records and post-task review",
+          "route": "modules/task-05-04-handling-record-review.html"
+        }
+      ],
+      "mechanic": "Compare fictional before/during/after observations, separate fact from interpretation and allocate communication roles for supervised movement.",
+      "mechanics": [
+        "select-table",
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:livestock-observation-room",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:livestock-observation-room",
+      "savedRecord": "An objective observation table, role plan and post-task handover.",
+      "evidenceSchema": [
+        {
+          "id": "objective-table",
+          "label": "Objective before/during/after summary",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "role-plan",
+          "label": "Communication role plan",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "post-task",
+          "label": "Post-task handover",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Species-specific movement, restraint, facility use and intervention require the authorised local plan and supervision.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/livestock-observation-room.html",
+        "printables/livestock-observation-record.html"
+      ]
+    },
+    {
+      "id": "livestock-monitoring-escalation",
+      "taskId": "task-06",
+      "title": "Monitor, record and escalate livestock change",
+      "route": "activities/livestock-monitoring-escalation.html",
+      "printable": "printables/livestock-monitoring-log.html",
+      "moduleIds": [
+        "task-06-01",
+        "task-06-02",
+        "task-06-03",
+        "task-06-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-06-01",
+          "title": "Health and welfare indicators",
+          "route": "modules/task-06-01-health-welfare-indicators.html"
+        },
+        {
+          "id": "task-06-02",
+          "title": "Routine monitoring and escalation",
+          "route": "modules/task-06-02-monitoring-escalation.html"
+        },
+        {
+          "id": "task-06-03",
+          "title": "Biosecurity and authorised response",
+          "route": "modules/task-06-03-biosecurity-authorised-response.html"
+        },
+        {
+          "id": "task-06-04",
+          "title": "Treatment records, withholding concepts and follow-up",
+          "route": "modules/task-06-04-treatment-record-followup.html"
+        }
+      ],
+      "mechanic": "Build an objective monitoring record from fictional observations, identify missing fields and choose an authorised escalation pathway.",
+      "mechanics": [
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:livestock-monitoring-escalation",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:livestock-monitoring-escalation",
+      "savedRecord": "A monitoring entry distinguishing observations, authorised actions, treatment-record fields and follow-up.",
+      "evidenceSchema": [
+        {
+          "id": "monitoring-summary",
+          "label": "Monitoring entry",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "authorised-actions",
+          "label": "Authorised action fields",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "follow-up-record",
+          "label": "Follow-up and record check",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "The activity gives no diagnosis, isolation direction, treatment, dosage, withholding period or euthanasia advice.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/livestock-monitoring-escalation.html",
+        "printables/livestock-monitoring-log.html"
+      ]
+    },
+    {
+      "id": "feed-plan-rehearsal",
+      "taskId": "task-07",
+      "title": "Feed-plan calculation rehearsal",
+      "route": "activities/feed-plan-rehearsal.html",
+      "printable": "printables/feed-plan-rehearsal.html",
+      "moduleIds": [
+        "task-07-01",
+        "task-07-02",
+        "task-07-03",
+        "task-07-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-07-01",
+          "title": "Livestock needs and condition evidence",
+          "route": "modules/task-07-01-needs-condition-evidence.html"
+        },
+        {
+          "id": "task-07-02",
+          "title": "Feed quality, storage and contamination",
+          "route": "modules/task-07-02-feed-quality-storage.html"
+        },
+        {
+          "id": "task-07-03",
+          "title": "Rehearse feeding-plan calculations",
+          "route": "modules/task-07-03-feeding-plan-calculations.html"
+        },
+        {
+          "id": "task-07-04",
+          "title": "Feed records, response and review",
+          "route": "modules/task-07-04-feed-record-review.html"
+        }
+      ],
+      "mechanic": "Use clearly fictional values to check totals, stock sufficiency and record consistency, then identify which real figures require an authorised source.",
+      "mechanics": [
+        "calculations",
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:feed-plan-rehearsal",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:feed-plan-rehearsal",
+      "savedRecord": "A worked fictional calculation, quality observations and source-confirmation checklist.",
+      "evidenceSchema": [
+        {
+          "id": "calculation",
+          "label": "Fictional worked calculation",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "quality",
+          "label": "Quality observation",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "source-confirmation",
+          "label": "Source-confirmation checklist",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "No ration, rate, supplement, medicated-feed or livestock-health recommendation is provided.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/feed-plan-rehearsal.html",
+        "printables/feed-plan-rehearsal.html"
+      ]
+    },
+    {
+      "id": "identification-record-reconcile",
+      "taskId": "task-08",
+      "title": "Reconcile livestock identification records",
+      "route": "activities/identification-record-reconcile.html",
+      "printable": "printables/livestock-identification-plan.html",
+      "moduleIds": [
+        "task-08-01",
+        "task-08-02",
+        "task-08-03",
+        "task-08-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-08-01",
+          "title": "Why identification and traceability matter",
+          "route": "modules/task-08-01-traceability-purpose.html"
+        },
+        {
+          "id": "task-08-02",
+          "title": "Choose the authorised identification source",
+          "route": "modules/task-08-02-authorised-identification.html"
+        },
+        {
+          "id": "task-08-03",
+          "title": "Plan a supervised marking task",
+          "route": "modules/task-08-03-marking-work-plan.html"
+        },
+        {
+          "id": "task-08-04",
+          "title": "Reconcile identification records",
+          "route": "modules/task-08-04-reconcile-records.html"
+        }
+      ],
+      "mechanic": "Match fictional animals, approved identifiers and record entries; find inconsistencies and plan a supervised marking task at field level only.",
+      "mechanics": [
+        "select-table",
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:identification-record-reconcile",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:identification-record-reconcile",
+      "savedRecord": "A corrected fictional traceability record and a source/authority checklist.",
+      "evidenceSchema": [
+        {
+          "id": "reconciled-record",
+          "label": "Corrected fictional traceability record",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "authority-list",
+          "label": "Authority checklist",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "next-action",
+          "label": "Next authorised action",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "No device-specific application, restraint or marking technique is taught.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/identification-record-reconcile.html",
+        "printables/livestock-identification-plan.html"
+      ]
+    },
+    {
+      "id": "weather-work-decision-lab",
+      "taskId": "task-09",
+      "title": "Weather-to-work decision lab",
+      "route": "activities/weather-work-decision-lab.html",
+      "printable": "printables/weather-decision-record.html",
+      "moduleIds": [
+        "task-09-01",
+        "task-09-02",
+        "task-09-03",
+        "task-09-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-09-01",
+          "title": "Weather, climate and farm observations",
+          "route": "modules/task-09-01-weather-climate-observations.html"
+        },
+        {
+          "id": "task-09-02",
+          "title": "Instruments, sources and data quality",
+          "route": "modules/task-09-02-instruments-source-quality.html"
+        },
+        {
+          "id": "task-09-03",
+          "title": "Read forecasts, warnings and synoptic patterns",
+          "route": "modules/task-09-03-forecasts-warnings-synoptic.html"
+        },
+        {
+          "id": "task-09-04",
+          "title": "Weather decisions, contingencies and reporting",
+          "route": "modules/task-09-04-contingency-reporting.html"
+        }
+      ],
+      "mechanic": "Read fictional observations with a dated forecast and warning, assess source quality, then revise a farm work schedule and communication note.",
+      "mechanics": [
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:weather-work-decision-lab",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:weather-work-decision-lab",
+      "savedRecord": "A source comparison, forecast interpretation and contingency work-plan revision.",
+      "evidenceSchema": [
+        {
+          "id": "source-comparison",
+          "label": "Source comparison",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "decision",
+          "label": "Fictional work-plan revision",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "message",
+          "label": "Contingency communication",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Real decisions require current Bureau of Meteorology information and the local emergency/contingency plan.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/weather-work-decision-lab.html",
+        "printables/weather-decision-record.html"
+      ]
+    },
+    {
+      "id": "chemical-source-decision-trail",
+      "taskId": "task-10",
+      "title": "Chemical source decision trail",
+      "route": "activities/chemical-source-decision-trail.html",
+      "printable": "printables/chemical-source-check.html",
+      "moduleIds": [
+        "task-10-01",
+        "task-10-02",
+        "task-10-03",
+        "task-10-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-10-01",
+          "title": "Authority, labels, SDS and the chemical register",
+          "route": "modules/task-10-01-authority-label-sds.html"
+        },
+        {
+          "id": "task-10-02",
+          "title": "Recognise weeds and compare control approaches",
+          "route": "modules/task-10-02-weeds-control-options.html"
+        },
+        {
+          "id": "task-10-03",
+          "title": "Weather, off-target movement and neighbours",
+          "route": "modules/task-10-03-weather-offtarget-neighbours.html"
+        },
+        {
+          "id": "task-10-04",
+          "title": "Plan, calculate, record and report safely",
+          "route": "modules/task-10-04-plan-calculate-record-report.html"
+        }
+      ],
+      "mechanic": "Choose the controlling source for fictional questions, recognise a weed through a structured observation, compare broad control approaches and identify stop/report conditions.",
+      "mechanics": [
+        "select-table",
+        "select-table",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:chemical-source-decision-trail",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:chemical-source-decision-trail",
+      "savedRecord": "A label/SDS/register/source map, weed-observation record and non-operational planning checklist.",
+      "evidenceSchema": [
+        {
+          "id": "source-map",
+          "label": "Source decision map",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "weed-observation",
+          "label": "Fictional weed observation",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "planning-check",
+          "label": "Non-operational planning and stop checklist",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "No product choice, rate, mixing, calibration, PPE, first aid, spill, disposal or application procedure is supplied.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/chemical-source-decision-trail.html",
+        "printables/chemical-source-check.html"
+      ]
+    },
+    {
+      "id": "environmental-pathway-audit",
+      "taskId": "task-11",
+      "title": "Environmental pathway and resource audit",
+      "route": "activities/environmental-pathway-audit.html",
+      "printable": "printables/environmental-improvement-brief.html",
+      "moduleIds": [
+        "task-11-01",
+        "task-11-02",
+        "task-11-03",
+        "task-11-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-11-01",
+          "title": "Environmental hazards and pathways",
+          "route": "modules/task-11-01-hazards-pathways.html"
+        },
+        {
+          "id": "task-11-02",
+          "title": "Protect soil, water, habitat and resources",
+          "route": "modules/task-11-02-soil-water-habitat-waste.html"
+        },
+        {
+          "id": "task-11-03",
+          "title": "Measure resource use before improving it",
+          "route": "modules/task-11-03-measure-resource-use.html"
+        },
+        {
+          "id": "task-11-04",
+          "title": "Report an incident and propose improvement",
+          "route": "modules/task-11-04-incident-improvement.html"
+        }
+      ],
+      "mechanic": "Trace a fictional environmental hazard to a receptor, compare resource-use records and justify one measurable workplace improvement.",
+      "mechanics": [
+        "select-table",
+        "calculations",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:environmental-pathway-audit",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:environmental-pathway-audit",
+      "savedRecord": "A pathway map, baseline comparison, incident report outline and improvement proposal.",
+      "evidenceSchema": [
+        {
+          "id": "pathway-map",
+          "label": "Environmental pathway map",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "baseline-comparison",
+          "label": "Resource baseline",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "improvement",
+          "label": "Improvement proposal",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Local spill, waste, legal-notification and property-control procedures remain authoritative.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/environmental-pathway-audit.html",
+        "printables/environmental-improvement-brief.html"
+      ]
+    },
+    {
+      "id": "fence-brief-planner",
+      "taskId": "task-12",
+      "title": "Read a fence brief and plan the work",
+      "route": "activities/fence-brief-planner.html",
+      "printable": "printables/fence-planning-brief.html",
+      "moduleIds": [
+        "task-12-01",
+        "task-12-02",
+        "task-12-03",
+        "task-12-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-12-01",
+          "title": "Fence purpose, specifications and site constraints",
+          "route": "modules/task-12-01-purpose-specifications-site.html"
+        },
+        {
+          "id": "task-12-02",
+          "title": "Materials, tools and risk planning",
+          "route": "modules/task-12-02-materials-tools-risk-plan.html"
+        },
+        {
+          "id": "task-12-03",
+          "title": "Work sequence, communication and quality checks",
+          "route": "modules/task-12-03-sequence-quality-checks.html"
+        },
+        {
+          "id": "task-12-04",
+          "title": "Inspection, maintenance report and handover",
+          "route": "modules/task-12-04-inspection-report-handover.html"
+        }
+      ],
+      "mechanic": "Interpret a fictional fence brief and site sketch, select planning categories, sequence communication/checkpoints and complete an inspection handover.",
+      "mechanics": [
+        "select-table",
+        "sequence",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:fence-brief-planner",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:fence-brief-planner",
+      "savedRecord": "A specification summary, resources/risks plan, non-technical sequence and inspection report.",
+      "evidenceSchema": [
+        {
+          "id": "spec-summary",
+          "label": "Specification summary",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "plan",
+          "label": "Resources, risks and checkpoint plan",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "handover",
+          "label": "Inspection handover",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "Tensioning, straining, tools, machinery and construction technique require the approved local source and demonstration.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/fence-brief-planner.html",
+        "printables/fence-planning-brief.html"
+      ]
+    },
+    {
+      "id": "electric-fence-fault-reasoning",
+      "taskId": "task-13",
+      "title": "Electric-fence fault reasoning",
+      "route": "activities/electric-fence-fault-reasoning.html",
+      "printable": "printables/electric-fence-handover.html",
+      "moduleIds": [
+        "task-13-01",
+        "task-13-02",
+        "task-13-03",
+        "task-13-04"
+      ],
+      "localSourceLinks": [
+        {
+          "id": "task-13-01",
+          "title": "Components and system concepts",
+          "route": "modules/task-13-01-components-system-concepts.html"
+        },
+        {
+          "id": "task-13-02",
+          "title": "Hazards, isolation authority and exclusion",
+          "route": "modules/task-13-02-hazards-isolation-authority.html"
+        },
+        {
+          "id": "task-13-03",
+          "title": "Fault reasoning from observable evidence",
+          "route": "modules/task-13-03-fault-reasoning-evidence.html"
+        },
+        {
+          "id": "task-13-04",
+          "title": "Planning, records and safe handover",
+          "route": "modules/task-13-04-plan-record-handover.html"
+        }
+      ],
+      "mechanic": "Use an offline fictional system map and observable clues to identify a safe exclusion/reporting response and the information required for authorised fault-finding.",
+      "mechanics": [
+        "select-table",
+        "select-table",
+        "choice-set",
+        "record"
+      ],
+      "saveKey": "tas:primary-industries:ahc20122:2026:activity:v1:electric-fence-fault-reasoning",
+      "completionKey": "tas:primary-industries:ahc20122:2026:progress:v1:activity:electric-fence-fault-reasoning",
+      "savedRecord": "A component relationship map, hazard/exclusion decision and safe handover record.",
+      "evidenceSchema": [
+        {
+          "id": "system-map",
+          "label": "Component relationship summary",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "hazard-decision",
+          "label": "Hazard and exclusion decision",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        },
+        {
+          "id": "safe-handover",
+          "label": "Safe handover",
+          "required": true,
+          "privacy": "fictional-or-de-identified"
+        }
+      ],
+      "boundary": "No energiser connection, isolation, testing, earthing, wiring or live-system procedure is supplied.",
+      "assessmentBoundary": "These activities create private formative learning records only. They do not replace an RTO assessment task, observation or competency decision.",
+      "files": [
+        "activities/electric-fence-fault-reasoning.html",
+        "printables/electric-fence-handover.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1898 @@
+{
+  "schemaVersion": "1.0.0",
+  "stage": "08-tas-build-videos",
+  "buildId": "pi-2026-v1",
+  "course": {
+    "title": "Primary Industries",
+    "qualificationCode": "AHC20122",
+    "qualificationTitle": "Certificate II in Agriculture",
+    "cohort": "2026-2027"
+  },
+  "generatedAt": "2026-08-21T07:30:02.367Z",
+  "status": "local-specialist-package",
+  "safetyBoundary": "This site provides supplementary learning and formative practice. Only the authorised RTO assessment process and a qualified assessor can determine competency.",
+  "playerContract": {
+    "initialIframe": false,
+    "autoplay": false,
+    "trigger": "real keyboard-operable button",
+    "embedOrigin": "https://www.youtube-nocookie.com",
+    "closeRemovesIframe": true,
+    "escapeClosesAndRestoresFocus": true,
+    "openInYouTubeFallbackAlwaysVisible": true,
+    "responsiveAspectRatio": "16:9"
+  },
+  "counts": {
+    "tasks": 13,
+    "modules": 52,
+    "uniqueVideos": 14,
+    "matchedModules": 23,
+    "exceptionModules": 29,
+    "gaps": 0,
+    "rework": 0,
+    "blocked": 0
+  },
+  "videos": [
+    {
+      "id": "3FmdMzl5giE",
+      "title": "Work Health and Safety (WHS) | Keeping your workplace safe",
+      "channel": "Young Farmer Business Program",
+      "durationSeconds": 346,
+      "publishedAt": "2020-04-29T17:44:41-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3FmdMzl5giE",
+      "fallbackUrl": "https://www.youtube.com/watch?v=3FmdMzl5giE",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/3FmdMzl5giE",
+      "authorityClass": "NSW Government-funded agriculture education program",
+      "authorityUrl": "https://www.nsw.gov.au/regional-and-primary-industries/young-farmer-business-program",
+      "selectionRationale": "A concise farm-context explanation of hazard, risk, risk assessment and the hierarchy of control without teaching a site-specific work procedure.",
+      "contentBoundary": "Use for concepts only. The current workplace risk process, supervisor direction and local controls govern real work.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 346,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/3FmdMzl5giE/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 129601,
+        "sha256": "2eb869587bc1d5bfdeb8941558a575c0ef3819f294574e247f7b59942c6e788d",
+        "localPath": "posters/3FmdMzl5giE.jpg",
+        "alt": "Official YouTube thumbnail for “Work Health and Safety (WHS) | Keeping your workplace safe”, about farm work health and safety, hazards, risks and controls."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/3FmdMzl5giE/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 129601,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/3FmdMzl5giE/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 129601,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/3FmdMzl5giE/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 9920,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-3FmdMzl5giE",
+        "playButtonLabel": "Play Work Health and Safety (WHS) | Keeping your workplace safe",
+        "closeButtonLabel": "Close Work Health and Safety (WHS) | Keeping your workplace safe",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 2
+    },
+    {
+      "id": "hYnlImIoUjk",
+      "title": "Got a moment?",
+      "channel": "Safe Work Australia",
+      "durationSeconds": 143,
+      "publishedAt": "2018-10-02T17:10:21-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hYnlImIoUjk",
+      "fallbackUrl": "https://www.youtube.com/watch?v=hYnlImIoUjk",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/hYnlImIoUjk",
+      "authorityClass": "Australian national work health and safety policy body",
+      "authorityUrl": "https://www.safeworkaustralia.gov.au/",
+      "selectionRationale": "A short worker-voice clip, including a farmer, that supports consultation and respectful safety communication without relying on a workplace-specific form.",
+      "contentBoundary": "Use to notice communication behaviours, not as a substitute for current NSW duties or the workplace consultation process.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 143,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/hYnlImIoUjk/mqdefault.jpg",
+        "variant": "mqdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 320,
+        "naturalHeight": 180,
+        "aspectRatio": "16:9",
+        "bytes": 8624,
+        "sha256": "d78c3cdb91e16cef06d2a2789bef8c8ac06b70665b737a5cff515bb71dffb9c4",
+        "localPath": "posters/hYnlImIoUjk.jpg",
+        "alt": "Official YouTube thumbnail for “Got a moment?”, about workers, including a farmer, discussing work health and safety."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/hYnlImIoUjk/maxresdefault.jpg",
+          "status": 404,
+          "contentType": "image/jpeg",
+          "bytes": 1097,
+          "width": null,
+          "height": null
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/hYnlImIoUjk/hq720.jpg",
+          "status": 404,
+          "contentType": "image/jpeg",
+          "bytes": 1097,
+          "width": null,
+          "height": null
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/hYnlImIoUjk/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 8624,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-hYnlImIoUjk",
+        "playButtonLabel": "Play Got a moment?",
+        "closeButtonLabel": "Close Got a moment?",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 2
+    },
+    {
+      "id": "YHKZSJC9ti8",
+      "title": "Come in Clean - Biosecurity Basics",
+      "channel": "Biosecurity Tasmania",
+      "durationSeconds": 169,
+      "publishedAt": "2023-12-13T18:45:53-08:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YHKZSJC9ti8",
+      "fallbackUrl": "https://www.youtube.com/watch?v=YHKZSJC9ti8",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/YHKZSJC9ti8",
+      "authorityClass": "Australian state biosecurity authority",
+      "authorityUrl": "https://nre.tas.gov.au/biosecurity-tasmania/",
+      "selectionRationale": "Clearly visualises soil, seeds and disease moving on clothes, gear, vehicles and farm machinery, matching pathway and inspection reasoning.",
+      "contentBoundary": "Use to identify pathways and inspection points only. The current property plan controls products, clean-down steps and release decisions.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 169,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/YHKZSJC9ti8/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 86418,
+        "sha256": "17e7c7e9c1614cd8259b0d605a99fad9ae9c1e0ca6f56e7c772d6656c901df8a",
+        "localPath": "posters/YHKZSJC9ti8.jpg",
+        "alt": "Official YouTube thumbnail for “Come in Clean - Biosecurity Basics”, about biosecurity contamination carried on footwear, vehicles and equipment."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/YHKZSJC9ti8/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 86418,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/YHKZSJC9ti8/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 86418,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/YHKZSJC9ti8/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 8692,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-YHKZSJC9ti8",
+        "playButtonLabel": "Play Come in Clean - Biosecurity Basics",
+        "closeButtonLabel": "Close Come in Clean - Biosecurity Basics",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 2
+    },
+    {
+      "id": "VuHnxJgPPs0",
+      "title": "Farmsafe Australia National Farm Safety Week 2024 -  Safe Livestock Handling 16x9 Final Version",
+      "channel": "Farmsafe Australia",
+      "durationSeconds": 161,
+      "publishedAt": "2024-07-17T13:00:08-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VuHnxJgPPs0",
+      "fallbackUrl": "https://www.youtube.com/watch?v=VuHnxJgPPs0",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/VuHnxJgPPs0",
+      "authorityClass": "Australian national farm safety organisation",
+      "authorityUrl": "https://farmsafe.org.au/",
+      "selectionRationale": "A short Australian farm-safety clip that supports behaviour, environment, roles and stop-and-reassess thinking around livestock.",
+      "contentBoundary": "Use for hazard awareness and pre-task reasoning only. Species-specific handling and movement techniques require teacher demonstration and direct supervision.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 161,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/VuHnxJgPPs0/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 248940,
+        "sha256": "a741bbc0a1ea5733d149e1c77ab176b5aa92e806b8402e22a787cff42a9fa8b8",
+        "localPath": "posters/VuHnxJgPPs0.jpg",
+        "alt": "Official YouTube thumbnail for “Farmsafe Australia National Farm Safety Week 2024 -  Safe Livestock Handling 16x9 Final Version”, about safe livestock handling awareness in an Australian farm setting."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/VuHnxJgPPs0/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 248940,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/VuHnxJgPPs0/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 248940,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/VuHnxJgPPs0/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 13956,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-VuHnxJgPPs0",
+        "playButtonLabel": "Play Farmsafe Australia National Farm Safety Week 2024 -  Safe Livestock Handling 16x9 Final Version",
+        "closeButtonLabel": "Close Farmsafe Australia National Farm Safety Week 2024 -  Safe Livestock Handling 16x9 Final Version",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 2
+    },
+    {
+      "id": "S1LolqPbrIg",
+      "title": "Indicators of Lameness",
+      "channel": "Dairy Australia",
+      "durationSeconds": 345,
+      "publishedAt": "2016-02-28T19:52:41-08:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=S1LolqPbrIg",
+      "fallbackUrl": "https://www.youtube.com/watch?v=S1LolqPbrIg",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/S1LolqPbrIg",
+      "authorityClass": "Australian dairy industry service body",
+      "authorityUrl": "https://www.dairyaustralia.com.au/",
+      "selectionRationale": "Provides visible examples of changed posture and movement that students can describe objectively before escalation.",
+      "contentBoundary": "Students observe visible changes only; they do not diagnose, score for workplace use or recommend treatment. Current veterinary and workplace advice controls action.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 345,
+        "label": "Whole clip; focus on visible movement cues, not treatment"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/S1LolqPbrIg/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 107421,
+        "sha256": "5f1aca31eb5b96f9f7374ecfa30be355e47e12756ee90b423a767c2d6b265352",
+        "localPath": "posters/S1LolqPbrIg.jpg",
+        "alt": "Official YouTube thumbnail for “Indicators of Lameness”, about observable posture and movement indicators in dairy cattle."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/S1LolqPbrIg/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 107421,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/S1LolqPbrIg/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 147022,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/S1LolqPbrIg/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 10984,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-S1LolqPbrIg",
+        "playButtonLabel": "Play Indicators of Lameness",
+        "closeButtonLabel": "Close Indicators of Lameness",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "CO-IwDDNZYk",
+      "title": "Farm Biosecurity Essentials: Production Practices",
+      "channel": "FarmBiosecurity",
+      "durationSeconds": 373,
+      "publishedAt": "2016-09-01T18:08:45-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CO-IwDDNZYk",
+      "fallbackUrl": "https://www.youtube.com/watch?v=CO-IwDDNZYk",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/CO-IwDDNZYk",
+      "authorityClass": "Joint Plant Health Australia and Animal Health Australia farm biosecurity programme",
+      "authorityUrl": "https://www.farmbiosecurity.com.au/",
+      "selectionRationale": "Connects routine observation, feed and water hygiene, storage, livestock care and reporting to preventing spread.",
+      "contentBoundary": "Use for relationships and early reporting only. It does not authorise diagnosis, treatment, feed decisions or property release.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 373,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/CO-IwDDNZYk/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 719,
+        "aspectRatio": "16:9",
+        "bytes": 90395,
+        "sha256": "63896180b47c0b07049ab3ff69d3ba0a581f043e8127e36bce2bb09b01518141",
+        "localPath": "posters/CO-IwDDNZYk.jpg",
+        "alt": "Official YouTube thumbnail for “Farm Biosecurity Essentials: Production Practices”, about routine farm biosecurity production practices and early observation."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/CO-IwDDNZYk/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 90395,
+          "width": 1280,
+          "height": 719
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/CO-IwDDNZYk/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 91189,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/CO-IwDDNZYk/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 14567,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-CO-IwDDNZYk",
+        "playButtonLabel": "Play Farm Biosecurity Essentials: Production Practices",
+        "closeButtonLabel": "Close Farm Biosecurity Essentials: Production Practices",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 3
+    },
+    {
+      "id": "pITHOXixPCI",
+      "title": "How the National Livestock Identification System (NLIS) works.",
+      "channel": "Integrity Systems",
+      "durationSeconds": 173,
+      "publishedAt": "2022-06-06T18:22:19-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pITHOXixPCI",
+      "fallbackUrl": "https://www.youtube.com/watch?v=pITHOXixPCI",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/pITHOXixPCI",
+      "authorityClass": "Administrator of Australia's red-meat integrity systems",
+      "authorityUrl": "https://www.integritysystems.com.au/",
+      "selectionRationale": "Explains the national identification and movement-record chain at exactly the conceptual level needed for traceability and record reconciliation.",
+      "contentBoundary": "Use for system purpose and record relationships. Current species, device, enterprise and regulatory requirements must be checked in authorised sources.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 173,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/pITHOXixPCI/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 48796,
+        "sha256": "0fcb5f93689805e9f8b08116dd1e73b3249b3da5fa15290cd8d642d636473547",
+        "localPath": "posters/pITHOXixPCI.jpg",
+        "alt": "Official YouTube thumbnail for “How the National Livestock Identification System (NLIS) works.”, about the National Livestock Identification System traceability chain."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/pITHOXixPCI/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 48796,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/pITHOXixPCI/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 48796,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/pITHOXixPCI/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 5940,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-pITHOXixPCI",
+        "playButtonLabel": "Play How the National Livestock Identification System (NLIS) works.",
+        "closeButtonLabel": "Close How the National Livestock Identification System (NLIS) works.",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 3
+    },
+    {
+      "id": "uSVef2Esn9k",
+      "title": "Ask the Bureau: Why do we have different climates across Australia?",
+      "channel": "Bureau of Meteorology",
+      "durationSeconds": 196,
+      "publishedAt": "2018-09-05T23:56:47-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uSVef2Esn9k",
+      "fallbackUrl": "https://www.youtube.com/watch?v=uSVef2Esn9k",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/uSVef2Esn9k",
+      "authorityClass": "Australian national weather and climate authority",
+      "authorityUrl": "https://www.bom.gov.au/",
+      "selectionRationale": "A student-friendly Bureau explanation of climate zones using long-term temperature and rainfall patterns.",
+      "contentBoundary": "Use for the weather-versus-climate concept; current local observations, forecasts and warnings govern real decisions.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 196,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/uSVef2Esn9k/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 99233,
+        "sha256": "694ff353346a1afdd6004eab8bf3ac502d6049dd4a6271a0aa472c125a3270ba",
+        "localPath": "posters/uSVef2Esn9k.jpg",
+        "alt": "Official YouTube thumbnail for “Ask the Bureau: Why do we have different climates across Australia?”, about Australian climate zones and long-term temperature and rainfall patterns."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/uSVef2Esn9k/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 99233,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/uSVef2Esn9k/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 99233,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/uSVef2Esn9k/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 13423,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-uSVef2Esn9k",
+        "playButtonLabel": "Play Ask the Bureau: Why do we have different climates across Australia?",
+        "closeButtonLabel": "Close Ask the Bureau: Why do we have different climates across Australia?",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "-qQHDGA7SsA",
+      "title": "Ask the Bureau: How is temperature measured?",
+      "channel": "Bureau of Meteorology",
+      "durationSeconds": 104,
+      "publishedAt": "2016-04-11T19:06:53-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-qQHDGA7SsA",
+      "fallbackUrl": "https://www.youtube.com/watch?v=-qQHDGA7SsA",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/-qQHDGA7SsA",
+      "authorityClass": "Australian national weather and climate authority",
+      "authorityUrl": "https://www.bom.gov.au/",
+      "selectionRationale": "Shows how an authoritative observation is produced and why siting and method matter to data quality.",
+      "contentBoundary": "Use to judge source and measurement quality; do not infer a current local condition from the clip.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 104,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/-qQHDGA7SsA/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 99332,
+        "sha256": "482e3416e93419f3774a3e32f9ab230400deca328436096dd3261a30c2aa4d56",
+        "localPath": "posters/-qQHDGA7SsA.jpg",
+        "alt": "Official YouTube thumbnail for “Ask the Bureau: How is temperature measured?”, about Bureau of Meteorology temperature measurement equipment and siting."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/-qQHDGA7SsA/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 99332,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/-qQHDGA7SsA/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 99332,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/-qQHDGA7SsA/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 12724,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video--qQHDGA7SsA",
+        "playButtonLabel": "Play Ask the Bureau: How is temperature measured?",
+        "closeButtonLabel": "Close Ask the Bureau: How is temperature measured?",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "EDHd5jaoSvo",
+      "title": "Understanding synoptic charts",
+      "channel": "Bureau of Meteorology",
+      "durationSeconds": 265,
+      "publishedAt": "2023-07-21T17:00:05-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EDHd5jaoSvo",
+      "fallbackUrl": "https://www.youtube.com/watch?v=EDHd5jaoSvo",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/EDHd5jaoSvo",
+      "authorityClass": "Australian national weather and climate authority",
+      "authorityUrl": "https://www.bom.gov.au/",
+      "selectionRationale": "Directly explains isobars, pressure systems, fronts and troughs on Australian synoptic charts.",
+      "contentBoundary": "Use to extract evidence, not to guarantee a local outcome. Current forecasts and warnings control real decisions.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 265,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/EDHd5jaoSvo/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 132309,
+        "sha256": "abcacfa399d7579fff8ab8ef88c520a0b6144b6c739d728de263ebf07fcca582",
+        "localPath": "posters/EDHd5jaoSvo.jpg",
+        "alt": "Official YouTube thumbnail for “Understanding synoptic charts”, about Bureau of Meteorology synoptic chart features."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/EDHd5jaoSvo/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 132309,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/EDHd5jaoSvo/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 132309,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/EDHd5jaoSvo/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 16612,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-EDHd5jaoSvo",
+        "playButtonLabel": "Play Understanding synoptic charts",
+        "closeButtonLabel": "Close Understanding synoptic charts",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "KpzndJ4ke2A",
+      "title": "How to find warnings, forecasts and past weather observations for your local area on bom.gov.au",
+      "channel": "Bureau of Meteorology",
+      "durationSeconds": 168,
+      "publishedAt": "2026-06-09T22:00:34-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KpzndJ4ke2A",
+      "fallbackUrl": "https://www.youtube.com/watch?v=KpzndJ4ke2A",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/KpzndJ4ke2A",
+      "authorityClass": "Australian national weather and climate authority",
+      "authorityUrl": "https://www.bom.gov.au/",
+      "selectionRationale": "Shows students where to find local warnings, forecasts and observations on the authoritative Bureau site.",
+      "contentBoundary": "Website layouts can change. Always use the current Bureau warning and the workplace contingency plan for a real decision.",
+      "bestSegment": {
+        "startSeconds": 5,
+        "endSeconds": 168,
+        "label": "00:05–02:48: location, observations, forecasts and warning access"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/KpzndJ4ke2A/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 78799,
+        "sha256": "5df55f772762fccfce6442e6481c6dfae2817c07095fa90ce2b48ee46c5d35f6",
+        "localPath": "posters/KpzndJ4ke2A.jpg",
+        "alt": "Official YouTube thumbnail for “How to find warnings, forecasts and past weather observations for your local area on bom.gov.au”, about finding local Bureau of Meteorology warnings, forecasts and observations."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/KpzndJ4ke2A/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 78799,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/KpzndJ4ke2A/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 78799,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/KpzndJ4ke2A/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 8932,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-KpzndJ4ke2A",
+        "playButtonLabel": "Play How to find warnings, forecasts and past weather observations for your local area on bom.gov.au",
+        "closeButtonLabel": "Close How to find warnings, forecasts and past weather observations for your local area on bom.gov.au",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "W6DIDop4pyY",
+      "title": "Introducing chemical labels",
+      "channel": "Department of Biodiversity, Conservation and Attractions",
+      "durationSeconds": 467,
+      "publishedAt": "2020-12-07T18:41:17-08:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=W6DIDop4pyY",
+      "fallbackUrl": "https://www.youtube.com/watch?v=W6DIDop4pyY",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/W6DIDop4pyY",
+      "authorityClass": "Western Australian government department using APVMA label guidance",
+      "authorityUrl": "https://www.dbca.wa.gov.au/",
+      "selectionRationale": "Introduces the headings and information architecture of an Australian pesticide label without selecting a product or giving an application plan.",
+      "contentBoundary": "The current registered product label, SDS, chemical register, local procedures and supervisor control every real chemical task.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 467,
+        "label": "Whole clip; focus on locating information, not application"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/W6DIDop4pyY/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 56530,
+        "sha256": "d3e5d7cbdc1511f774daabf8408d31f888b0b00567ad38600d410bc5df38b590",
+        "localPath": "posters/W6DIDop4pyY.jpg",
+        "alt": "Official YouTube thumbnail for “Introducing chemical labels”, about key sections and headings on Australian pesticide chemical labels."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/W6DIDop4pyY/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 56530,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/W6DIDop4pyY/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 56530,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/W6DIDop4pyY/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 4721,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-W6DIDop4pyY",
+        "playButtonLabel": "Play Introducing chemical labels",
+        "closeButtonLabel": "Close Introducing chemical labels",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "oX5wfIWFfjY",
+      "title": "Plant Identification tips",
+      "channel": "Local Land Services NSW",
+      "durationSeconds": 199,
+      "publishedAt": "2020-05-14T17:35:21-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oX5wfIWFfjY",
+      "fallbackUrl": "https://www.youtube.com/watch?v=oX5wfIWFfjY",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/oX5wfIWFfjY",
+      "authorityClass": "NSW Government regional agriculture and land-management service",
+      "authorityUrl": "https://www.lls.nsw.gov.au/",
+      "selectionRationale": "Models careful observation of plant features before consulting an authorised identification source.",
+      "contentBoundary": "Observation is not confirmed identification. Current NSW weed information and the local supervisor control any response.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 199,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/oX5wfIWFfjY/mqdefault.jpg",
+        "variant": "mqdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 320,
+        "naturalHeight": 180,
+        "aspectRatio": "16:9",
+        "bytes": 10028,
+        "sha256": "3b85f1c5dc6ae47a4b46226294cbd89202fce077458766f8bc5fa47e8c880223",
+        "localPath": "posters/oX5wfIWFfjY.jpg",
+        "alt": "Official YouTube thumbnail for “Plant Identification tips”, about observable plant features used before checking a weed identification source."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/oX5wfIWFfjY/maxresdefault.jpg",
+          "status": 404,
+          "contentType": "image/jpeg",
+          "bytes": 1097,
+          "width": null,
+          "height": null
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/oX5wfIWFfjY/hq720.jpg",
+          "status": 404,
+          "contentType": "image/jpeg",
+          "bytes": 1097,
+          "width": null,
+          "height": null
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/oX5wfIWFfjY/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 10028,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-oX5wfIWFfjY",
+        "playButtonLabel": "Play Plant Identification tips",
+        "closeButtonLabel": "Close Plant Identification tips",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 1
+    },
+    {
+      "id": "OXk2P_kpUw8",
+      "title": "Improving water quality on farm dams",
+      "channel": "Local Land Services NSW",
+      "durationSeconds": 651,
+      "publishedAt": "2026-08-04T22:47:18-07:00",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OXk2P_kpUw8",
+      "fallbackUrl": "https://www.youtube.com/watch?v=OXk2P_kpUw8",
+      "privacyEnhancedEmbedUrl": "https://www.youtube-nocookie.com/embed/OXk2P_kpUw8",
+      "authorityClass": "NSW Government regional agriculture and land-management service",
+      "authorityUrl": "https://www.lls.nsw.gov.au/",
+      "selectionRationale": "Uses Australian farm examples to show runoff, water quality, vegetation, habitat and measurable improvement as a connected system.",
+      "contentBoundary": "Use for environmental pathway and evidence reasoning; current property controls and authorised advice govern real earthworks, fencing or water management.",
+      "bestSegment": {
+        "startSeconds": 0,
+        "endSeconds": 651,
+        "label": "Whole clip"
+      },
+      "thumbnail": {
+        "officialUrl": "https://i.ytimg.com/vi/OXk2P_kpUw8/maxresdefault.jpg",
+        "variant": "maxresdefault",
+        "responseStatus": 200,
+        "contentType": "image/jpeg",
+        "naturalWidth": 1280,
+        "naturalHeight": 720,
+        "aspectRatio": "16:9",
+        "bytes": 49781,
+        "sha256": "7636c13aca3426c98d5aea4d622dedf41aa42396060b34f3c946ef440a5ba73a",
+        "localPath": "posters/OXk2P_kpUw8.jpg",
+        "alt": "Official YouTube thumbnail for “Improving water quality on farm dams”, about farm-dam water quality, runoff, vegetation and habitat improvements."
+      },
+      "thumbnailAttempts": [
+        {
+          "variant": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/OXk2P_kpUw8/maxresdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 49781,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "hq720",
+          "url": "https://i.ytimg.com/vi/OXk2P_kpUw8/hq720.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 49781,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "variant": "mqdefault",
+          "url": "https://i.ytimg.com/vi/OXk2P_kpUw8/mqdefault.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 5744,
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "libraryCard": {
+        "id": "video-OXk2P_kpUw8",
+        "playButtonLabel": "Play Improving water quality on farm dams",
+        "closeButtonLabel": "Close Improving water quality on farm dams",
+        "fallbackLabel": "Open in YouTube",
+        "autoplay": false,
+        "initialIframe": false,
+        "closeRemovesIframe": true,
+        "escapeClosesAndRestoresFocus": true
+      },
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:30:02.367Z",
+        "watchHttpStatus": 200,
+        "oembedHttpStatus": 200,
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "exactTitleAndChannelMatched": true
+      },
+      "moduleUsageCount": 2
+    }
+  ],
+  "moduleCoverage": [
+    {
+      "moduleId": "task-01-01",
+      "taskId": "task-01",
+      "taskNumber": 1,
+      "taskTitle": "WHS and farm readiness",
+      "moduleTitle": "Farm safety roles and authority",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-01-01-farm-safety-roles.html#main-content",
+      "rationale": "Responsibilities and authority vary by role and workplace; a generic clip could overstate a learner's authority.",
+      "visualEquivalent": {
+        "type": "role-boundary diagram",
+        "rationale": "A labelled role-and-referral map makes the local authority boundary clearer than video."
+      }
+    },
+    {
+      "moduleId": "task-01-02",
+      "taskId": "task-01",
+      "taskNumber": 1,
+      "taskTitle": "WHS and farm readiness",
+      "moduleTitle": "Hazards, risks and changing conditions",
+      "outcome": "MATCHED",
+      "videoId": "3FmdMzl5giE",
+      "theoryDeepLink": "modules/task-01-02-hazards-risks-conditions.html#main-content",
+      "adjacentClaim": "A hazard is a source of possible harm; risk reasoning considers consequence, likelihood and changing evidence.",
+      "reasonToWatch": "See hazard and risk separated in a real farm context before applying the distinction to a new scene.",
+      "watchFor": "Which part of the example is the hazard, which part is the possible harm, and what evidence would change the risk judgement?",
+      "helpsComplete": "The hazard–risk–condition knowledge check and scene-analysis response."
+    },
+    {
+      "moduleId": "task-01-03",
+      "taskId": "task-01",
+      "taskNumber": 1,
+      "taskTitle": "WHS and farm readiness",
+      "moduleTitle": "Controls, PPE and residual risk",
+      "outcome": "MATCHED",
+      "videoId": "3FmdMzl5giE",
+      "theoryDeepLink": "modules/task-01-03-controls-and-residual-risk.html#main-content",
+      "adjacentClaim": "Controls should be compared by how they act on the hazard, with PPE not treated as the first or only response.",
+      "reasonToWatch": "Connect the hierarchy of control to the question of what risk remains after a control is chosen.",
+      "watchFor": "Which control acts furthest from the person, and what risk could remain after it is applied?",
+      "helpsComplete": "The control-choice check and residual-risk explanation."
+    },
+    {
+      "moduleId": "task-01-04",
+      "taskId": "task-01",
+      "taskNumber": 1,
+      "taskTitle": "WHS and farm readiness",
+      "moduleTitle": "Consult, report and learn from incidents",
+      "outcome": "MATCHED",
+      "videoId": "hYnlImIoUjk",
+      "theoryDeepLink": "modules/task-01-04-consult-report-review.html#main-content",
+      "adjacentClaim": "Consultation depends on workers raising evidence and others responding so a safety concern can lead to action.",
+      "reasonToWatch": "Hear workers, including a farmer, describe how speaking up supports safer work.",
+      "watchFor": "What makes a safety conversation constructive, and what should happen after a concern is raised?",
+      "helpsComplete": "The consultation-pathway decision and report-and-review response."
+    },
+    {
+      "moduleId": "task-02-01",
+      "taskId": "task-02",
+      "taskNumber": 2,
+      "taskTitle": "Communicate and work effectively",
+      "moduleTitle": "Roles, instructions and scope of authority",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-02-01-roles-instructions-authority.html#main-content",
+      "rationale": "Who directs work and what must be referred are controlled by the local organisation and supervisor brief.",
+      "visualEquivalent": {
+        "type": "fictional organisation-and-escalation map",
+        "rationale": "Students can trace authority without importing another workplace's structure."
+      }
+    },
+    {
+      "moduleId": "task-02-02",
+      "taskId": "task-02",
+      "taskNumber": 2,
+      "taskTitle": "Communicate and work effectively",
+      "moduleTitle": "Work plans, priorities and time",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-02-02-work-plans-priorities.html#main-content",
+      "rationale": "The learning purpose is constructing and revising a work plan, which is better rehearsed interactively than watched.",
+      "visualEquivalent": {
+        "type": "sequencing board with checkpoints",
+        "rationale": "A movable plan shows dependencies, priorities and review points directly."
+      }
+    },
+    {
+      "moduleId": "task-02-03",
+      "taskId": "task-02",
+      "taskNumber": 2,
+      "taskTitle": "Communicate and work effectively",
+      "moduleTitle": "Workplace records and routine calculations",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-02-03-records-calculations.html#main-content",
+      "rationale": "Routine calculations and clear record entries require active worked practice rather than passive demonstration.",
+      "visualEquivalent": {
+        "type": "worked fictional record and calculation pair",
+        "rationale": "Students can inspect units, totals and corrections without copying a real workplace form."
+      }
+    },
+    {
+      "moduleId": "task-02-04",
+      "taskId": "task-02",
+      "taskNumber": 2,
+      "taskTitle": "Communicate and work effectively",
+      "moduleTitle": "Teamwork, feedback and workplace issues",
+      "outcome": "MATCHED",
+      "videoId": "hYnlImIoUjk",
+      "theoryDeepLink": "modules/task-02-04-teamwork-feedback-issues.html#main-content",
+      "adjacentClaim": "Respectful two-way communication helps a team surface issues and agree on a next action.",
+      "reasonToWatch": "Notice language and listening behaviours that keep a workplace discussion useful.",
+      "watchFor": "Which communication behaviour helps the speaker be heard and leads towards a clear next action?",
+      "helpsComplete": "The teamwork feedback scenario and issue-escalation response."
+    },
+    {
+      "moduleId": "task-03-01",
+      "taskId": "task-03",
+      "taskNumber": 3,
+      "taskTitle": "Operate tractors",
+      "moduleTitle": "Match task, tractor, terrain and authority",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-03-01-task-tractor-terrain.html#main-content",
+      "rationale": "Even high-level tractor videos commonly include machine-specific operating advice. Task, tractor, terrain, conditions and authority must be reasoned from the local brief, SOP and supervisor direction.",
+      "visualEquivalent": {
+        "type": "task-tractor-terrain-authority decision map",
+        "rationale": "A fictional go-stop-refer map keeps the pre-operation decision visible without showing controls or operating technique."
+      }
+    },
+    {
+      "moduleId": "task-03-02",
+      "taskId": "task-03",
+      "taskNumber": 3,
+      "taskTitle": "Operate tractors",
+      "moduleTitle": "Pre-start inspection and defect decisions",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-03-02-prestart-defect-decisions.html#main-content",
+      "rationale": "A pre-start can become machine-specific operating instruction; the manufacturer, local SOP and teacher demonstration must control it.",
+      "visualEquivalent": {
+        "type": "annotated fictional stop-or-report checklist",
+        "rationale": "The visual teaches defect reasoning without naming operating steps or settings."
+      }
+    },
+    {
+      "moduleId": "task-03-03",
+      "taskId": "task-03",
+      "taskNumber": 3,
+      "taskTitle": "Operate tractors",
+      "moduleTitle": "Farm traffic, attachments and exclusion zones",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-03-03-traffic-attachments-exclusion.html#main-content",
+      "rationale": "Tractor and attachment footage can become operating instruction or normalise unsafe proximity. Shared-area controls must come from the local plan and supervised demonstration.",
+      "visualEquivalent": {
+        "type": "farm-traffic and exclusion-zone scene map",
+        "rationale": "A still scene supports blind-spot, people and boundary reasoning without showing machinery in operation."
+      }
+    },
+    {
+      "moduleId": "task-03-04",
+      "taskId": "task-03",
+      "taskNumber": 3,
+      "taskTitle": "Operate tractors",
+      "moduleTitle": "Usage records, handover and review",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-03-04-usage-handover-review.html#main-content",
+      "rationale": "Usage records and handover fields are workplace-controlled and learned best through a fictional record comparison.",
+      "visualEquivalent": {
+        "type": "weak-versus-strong handover record",
+        "rationale": "A side-by-side visual exposes missing facts and unresolved defects."
+      }
+    },
+    {
+      "moduleId": "task-04-01",
+      "taskId": "task-04",
+      "taskNumber": 4,
+      "taskTitle": "Biosecurity",
+      "moduleTitle": "Biosecurity pathways and zones",
+      "outcome": "MATCHED",
+      "videoId": "YHKZSJC9ti8",
+      "theoryDeepLink": "modules/task-04-01-pathways-zones.html#main-content",
+      "adjacentClaim": "Soil, seeds and disease can move between places on people, vehicles, tools and equipment.",
+      "reasonToWatch": "Trace multiple contamination carriers through a familiar travel-and-equipment example.",
+      "watchFor": "Identify three different carriers that could move soil, seeds or disease between places.",
+      "helpsComplete": "The biosecurity pathway trace and zone-entry decision."
+    },
+    {
+      "moduleId": "task-04-02",
+      "taskId": "task-04",
+      "taskNumber": 4,
+      "taskTitle": "Biosecurity",
+      "moduleTitle": "Inspect machinery, tools and equipment",
+      "outcome": "MATCHED",
+      "videoId": "YHKZSJC9ti8",
+      "theoryDeepLink": "modules/task-04-02-inspect-equipment.html#main-content",
+      "adjacentClaim": "Inspection should target surfaces, recesses and items where contamination may remain hidden.",
+      "reasonToWatch": "Notice where contamination can cling before applying an authorised inspection pattern.",
+      "watchFor": "Which surfaces or items could conceal contamination and therefore need an authorised inspection?",
+      "helpsComplete": "The equipment inspection evidence check."
+    },
+    {
+      "moduleId": "task-04-03",
+      "taskId": "task-04",
+      "taskNumber": 4,
+      "taskTitle": "Biosecurity",
+      "moduleTitle": "Build a clean-down work plan",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-04-03-cleandown-plan.html#main-content",
+      "rationale": "Clean-down products, settings, sequence and waste controls are property-specific and procedure-heavy.",
+      "visualEquivalent": {
+        "type": "source-gated clean-down planning flow",
+        "rationale": "The diagram can show where authority is required without inventing a procedure."
+      }
+    },
+    {
+      "moduleId": "task-04-04",
+      "taskId": "task-04",
+      "taskNumber": 4,
+      "taskTitle": "Biosecurity",
+      "moduleTitle": "Records, release checks and escalation",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-04-04-records-release-escalation.html#main-content",
+      "rationale": "Release criteria and escalation paths come from the current property biosecurity plan.",
+      "visualEquivalent": {
+        "type": "record-release-escalation decision tree",
+        "rationale": "The visual keeps unresolved contamination visible and directs students back to the authorised source."
+      }
+    },
+    {
+      "moduleId": "task-05-01",
+      "taskId": "task-05",
+      "taskNumber": 5,
+      "taskTitle": "Handle and observe livestock",
+      "moduleTitle": "Read livestock behaviour and the environment",
+      "outcome": "MATCHED",
+      "videoId": "VuHnxJgPPs0",
+      "theoryDeepLink": "modules/task-05-01-behaviour-environment.html#main-content",
+      "adjacentClaim": "Animal behaviour, people, facilities and environmental conditions interact during livestock work.",
+      "reasonToWatch": "Look for observable cues that mean a team should pause and reassess rather than push on.",
+      "watchFor": "What change in animal behaviour or the work environment signals that people should pause and reassess?",
+      "helpsComplete": "The behaviour-and-environment observation decision."
+    },
+    {
+      "moduleId": "task-05-02",
+      "taskId": "task-05",
+      "taskNumber": 5,
+      "taskTitle": "Handle and observe livestock",
+      "moduleTitle": "Plan roles for a supervised livestock movement",
+      "outcome": "MATCHED",
+      "videoId": "VuHnxJgPPs0",
+      "theoryDeepLink": "modules/task-05-02-movement-roles-plan.html#main-content",
+      "adjacentClaim": "Safe supervised movement depends on a shared purpose, roles, route, communication and stop conditions.",
+      "reasonToWatch": "Identify planning and communication points without copying a handling technique.",
+      "watchFor": "Which role, route or communication point should be agreed before supervised movement starts?",
+      "helpsComplete": "The livestock-movement role-plan scaffold."
+    },
+    {
+      "moduleId": "task-05-03",
+      "taskId": "task-05",
+      "taskNumber": 5,
+      "taskTitle": "Handle and observe livestock",
+      "moduleTitle": "Observe condition and report change",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-05-03-observe-report-change.html#main-content",
+      "rationale": "Objective observation versus diagnosis is best tested with still evidence that can be revisited carefully.",
+      "visualEquivalent": {
+        "type": "observation-versus-diagnosis field-note pair",
+        "rationale": "A still pair lets students separate seen evidence from inference without implying treatment."
+      }
+    },
+    {
+      "moduleId": "task-05-04",
+      "taskId": "task-05",
+      "taskNumber": 5,
+      "taskTitle": "Handle and observe livestock",
+      "moduleTitle": "Handling records and post-task review",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-05-04-handling-record-review.html#main-content",
+      "rationale": "Handling records and post-task review require close comparison of factual entries, not a procedural livestock video.",
+      "visualEquivalent": {
+        "type": "complete and incomplete fictional handling records",
+        "rationale": "Students can audit traceability and follow-up fields directly."
+      }
+    },
+    {
+      "moduleId": "task-06-01",
+      "taskId": "task-06",
+      "taskNumber": 6,
+      "taskTitle": "Care for livestock",
+      "moduleTitle": "Health and welfare indicators",
+      "outcome": "MATCHED",
+      "videoId": "S1LolqPbrIg",
+      "theoryDeepLink": "modules/task-06-01-health-welfare-indicators.html#main-content",
+      "adjacentClaim": "Objective livestock observations describe visible changes in appearance, posture or movement without diagnosing the cause.",
+      "reasonToWatch": "Practise separating a visible movement cue from a diagnosis or treatment decision.",
+      "watchFor": "Which visible changes in posture or movement can be recorded objectively before a concern is escalated?",
+      "helpsComplete": "The normal/changed indicator comparison and objective field note."
+    },
+    {
+      "moduleId": "task-06-02",
+      "taskId": "task-06",
+      "taskNumber": 6,
+      "taskTitle": "Care for livestock",
+      "moduleTitle": "Routine monitoring and escalation",
+      "outcome": "MATCHED",
+      "videoId": "CO-IwDDNZYk",
+      "theoryDeepLink": "modules/task-06-02-monitoring-escalation.html#main-content",
+      "adjacentClaim": "Routine observation helps detect change early, while reporting and expert direction control the response.",
+      "reasonToWatch": "Connect regular observation with early escalation without asking a learner to diagnose.",
+      "watchFor": "Which routine observations could reveal an early change without requiring a learner to diagnose it?",
+      "helpsComplete": "The monitoring-pattern and escalation-pathway decision."
+    },
+    {
+      "moduleId": "task-06-03",
+      "taskId": "task-06",
+      "taskNumber": 6,
+      "taskTitle": "Care for livestock",
+      "moduleTitle": "Biosecurity and authorised response",
+      "outcome": "MATCHED",
+      "videoId": "CO-IwDDNZYk",
+      "theoryDeepLink": "modules/task-06-03-biosecurity-authorised-response.html#main-content",
+      "adjacentClaim": "Observation, hygiene, separation and reporting work together to reduce the spread of pests and disease.",
+      "reasonToWatch": "See biosecurity as a connected farm system rather than a single cleaning action.",
+      "watchFor": "How do hygiene, separation and reporting work together to limit spread?",
+      "helpsComplete": "The biosecurity-and-authorised-response relationship map."
+    },
+    {
+      "moduleId": "task-06-04",
+      "taskId": "task-06",
+      "taskNumber": 6,
+      "taskTitle": "Care for livestock",
+      "moduleTitle": "Treatment records, withholding concepts and follow-up",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-06-04-treatment-record-followup.html#main-content",
+      "rationale": "Treatment, dosage, withholding and follow-up are controlled by veterinary and workplace sources; video risks becoming unsafe instruction.",
+      "visualEquivalent": {
+        "type": "authorised-source hierarchy with redacted fictional record",
+        "rationale": "The visual teaches where each detail comes from while withholding operational values."
+      }
+    },
+    {
+      "moduleId": "task-07-01",
+      "taskId": "task-07",
+      "taskNumber": 7,
+      "taskTitle": "Feed livestock",
+      "moduleTitle": "Livestock needs and condition evidence",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-07-01-needs-condition-evidence.html#main-content",
+      "rationale": "Species, life-stage and production needs must come from an approved feeding plan; a generic clip could be misleading.",
+      "visualEquivalent": {
+        "type": "feeding-plan evidence concept map",
+        "rationale": "The map names required information without giving a ration or rate."
+      }
+    },
+    {
+      "moduleId": "task-07-02",
+      "taskId": "task-07",
+      "taskNumber": 7,
+      "taskTitle": "Feed livestock",
+      "moduleTitle": "Feed quality, storage and contamination",
+      "outcome": "MATCHED",
+      "videoId": "CO-IwDDNZYk",
+      "theoryDeepLink": "modules/task-07-02-feed-quality-storage.html#main-content",
+      "adjacentClaim": "Feed, water and storage hygiene are biosecurity evidence sources, and observable concerns should be held and reported.",
+      "reasonToWatch": "Notice how feed and water quality fit inside a broader prevention system.",
+      "watchFor": "Which visible feed, water or storage concern should trigger a report-and-hold response?",
+      "helpsComplete": "The feed-quality concern and safe response check."
+    },
+    {
+      "moduleId": "task-07-03",
+      "taskId": "task-07",
+      "taskNumber": 7,
+      "taskTitle": "Feed livestock",
+      "moduleTitle": "Rehearse feeding-plan calculations",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-07-03-feeding-plan-calculations.html#main-content",
+      "rationale": "The purpose is fictional unit and total calculations, best completed as active worked examples.",
+      "visualEquivalent": {
+        "type": "fictional calculation cards with unit checks",
+        "rationale": "Students must do and check the maths rather than copy a real ration."
+      }
+    },
+    {
+      "moduleId": "task-07-04",
+      "taskId": "task-07",
+      "taskNumber": 7,
+      "taskTitle": "Feed livestock",
+      "moduleTitle": "Feed records, response and review",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-07-04-feed-record-review.html#main-content",
+      "rationale": "Record review and follow-up information are best judged in a stable fictional ledger.",
+      "visualEquivalent": {
+        "type": "feed-record before-and-after review",
+        "rationale": "The visual makes missing quantities, observations and follow-up easy to compare."
+      }
+    },
+    {
+      "moduleId": "task-08-01",
+      "taskId": "task-08",
+      "taskNumber": 8,
+      "taskTitle": "Identify and mark livestock",
+      "moduleTitle": "Why identification and traceability matter",
+      "outcome": "MATCHED",
+      "videoId": "pITHOXixPCI",
+      "theoryDeepLink": "modules/task-08-01-traceability-purpose.html#main-content",
+      "adjacentClaim": "An animal identifier links property of birth and recorded movements into a traceability history.",
+      "reasonToWatch": "Follow the identifier through the national system before analysing a fictional record chain.",
+      "watchFor": "Follow one animal identifier from property of birth through movement records: what makes the chain traceable?",
+      "helpsComplete": "The traceability-chain check and evidence map."
+    },
+    {
+      "moduleId": "task-08-02",
+      "taskId": "task-08",
+      "taskNumber": 8,
+      "taskTitle": "Identify and mark livestock",
+      "moduleTitle": "Choose the authorised identification source",
+      "outcome": "MATCHED",
+      "videoId": "pITHOXixPCI",
+      "theoryDeepLink": "modules/task-08-02-authorised-identification.html#main-content",
+      "adjacentClaim": "National system requirements and enterprise records have distinct roles in authorised identification work.",
+      "reasonToWatch": "Distinguish the national system purpose from details that still require a current local source.",
+      "watchFor": "Which parts are fixed by the national system, and which details still require the current enterprise source?",
+      "helpsComplete": "The authorised-source selection decision."
+    },
+    {
+      "moduleId": "task-08-03",
+      "taskId": "task-08",
+      "taskNumber": 8,
+      "taskTitle": "Identify and mark livestock",
+      "moduleTitle": "Plan a supervised marking task",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-08-03-marking-work-plan.html#main-content",
+      "rationale": "Devices, restraint, marking technique and equipment use require the current enterprise source and direct supervision.",
+      "visualEquivalent": {
+        "type": "supervised-task planning canvas",
+        "rationale": "The canvas covers roles, welfare, records and stop conditions without showing technique."
+      }
+    },
+    {
+      "moduleId": "task-08-04",
+      "taskId": "task-08",
+      "taskNumber": 8,
+      "taskTitle": "Identify and mark livestock",
+      "moduleTitle": "Reconcile identification records",
+      "outcome": "MATCHED",
+      "videoId": "pITHOXixPCI",
+      "theoryDeepLink": "modules/task-08-04-reconcile-records.html#main-content",
+      "adjacentClaim": "Traceability depends on physical identifiers and movement records agreeing across the chain.",
+      "reasonToWatch": "Identify the links that must be reconciled before a record can be trusted.",
+      "watchFor": "Which identifiers and movement records would need to agree before the traceability record can be trusted?",
+      "helpsComplete": "The missing, duplicated and inconsistent identifier reconciliation exercise."
+    },
+    {
+      "moduleId": "task-09-01",
+      "taskId": "task-09",
+      "taskNumber": 9,
+      "taskTitle": "Weather",
+      "moduleTitle": "Weather, climate and farm observations",
+      "outcome": "MATCHED",
+      "videoId": "uSVef2Esn9k",
+      "theoryDeepLink": "modules/task-09-01-weather-climate-observations.html#main-content",
+      "adjacentClaim": "Weather describes short-term conditions; climate describes longer-term patterns such as temperature and rainfall.",
+      "reasonToWatch": "Use Australian climate zones to anchor the weather-versus-climate distinction.",
+      "watchFor": "How are climate zones described using long-term temperature and rainfall patterns rather than today's conditions?",
+      "helpsComplete": "The weather/climate classification check and farm-observation response."
+    },
+    {
+      "moduleId": "task-09-02",
+      "taskId": "task-09",
+      "taskNumber": 9,
+      "taskTitle": "Weather",
+      "moduleTitle": "Instruments, sources and data quality",
+      "outcome": "MATCHED",
+      "videoId": "-qQHDGA7SsA",
+      "theoryDeepLink": "modules/task-09-02-instruments-source-quality.html#main-content",
+      "adjacentClaim": "Comparable weather data depends on the instrument, siting, method and an authoritative observation source.",
+      "reasonToWatch": "See how the Bureau protects the quality of a common measurement.",
+      "watchFor": "What features of the observation site help make temperature measurements comparable?",
+      "helpsComplete": "The instrument/source/data-quality comparison."
+    },
+    {
+      "moduleId": "task-09-03",
+      "taskId": "task-09",
+      "taskNumber": 9,
+      "taskTitle": "Weather",
+      "moduleTitle": "Read forecasts, warnings and synoptic patterns",
+      "outcome": "MATCHED",
+      "videoId": "EDHd5jaoSvo",
+      "theoryDeepLink": "modules/task-09-03-forecasts-warnings-synoptic.html#main-content",
+      "adjacentClaim": "Synoptic charts use isobars, pressure systems, fronts and troughs to represent current weather patterns.",
+      "reasonToWatch": "Read chart evidence while keeping uncertainty visible.",
+      "watchFor": "What do the spacing and shape of isobars, pressure systems and fronts suggest without guaranteeing a local outcome?",
+      "helpsComplete": "The synoptic-chart evidence extraction and forecast-language check."
+    },
+    {
+      "moduleId": "task-09-04",
+      "taskId": "task-09",
+      "taskNumber": 9,
+      "taskTitle": "Weather",
+      "moduleTitle": "Weather decisions, contingencies and reporting",
+      "outcome": "MATCHED",
+      "videoId": "KpzndJ4ke2A",
+      "theoryDeepLink": "modules/task-09-04-contingency-reporting.html#main-content",
+      "adjacentClaim": "Current warnings, forecasts and observations must be checked before a weather-affected work-plan decision.",
+      "reasonToWatch": "Locate the authoritative evidence needed before documenting a fictional contingency.",
+      "watchFor": "Where are current warnings shown, and which details would you record before changing a work plan?",
+      "helpsComplete": "The weather-contingency decision and communication record."
+    },
+    {
+      "moduleId": "task-10-01",
+      "taskId": "task-10",
+      "taskNumber": 10,
+      "taskTitle": "Chemicals and weeds",
+      "moduleTitle": "Authority, labels, SDS and the chemical register",
+      "outcome": "MATCHED",
+      "videoId": "W6DIDop4pyY",
+      "theoryDeepLink": "modules/task-10-01-authority-label-sds.html#main-content",
+      "adjacentClaim": "A chemical label has defined sections, while the SDS and workplace register answer different questions.",
+      "reasonToWatch": "Practise locating information by heading without selecting a product or creating an application instruction.",
+      "watchFor": "Which label section answers a product-specific question, and when would the SDS or workplace register still be needed?",
+      "helpsComplete": "The label/SDS/register source-selection check."
+    },
+    {
+      "moduleId": "task-10-02",
+      "taskId": "task-10",
+      "taskNumber": 10,
+      "taskTitle": "Chemicals and weeds",
+      "moduleTitle": "Recognise weeds and compare control approaches",
+      "outcome": "MATCHED",
+      "videoId": "oX5wfIWFfjY",
+      "theoryDeepLink": "modules/task-10-02-weeds-control-options.html#main-content",
+      "adjacentClaim": "Plant identification begins with observable features and is confirmed through an authorised source.",
+      "reasonToWatch": "See which features are useful to record before comparing management options.",
+      "watchFor": "Which observable plant features should be recorded before an authorised identification source is checked?",
+      "helpsComplete": "The weed-feature record and source-confirmation decision."
+    },
+    {
+      "moduleId": "task-10-03",
+      "taskId": "task-10",
+      "taskNumber": 10,
+      "taskTitle": "Chemicals and weeds",
+      "moduleTitle": "Weather, off-target movement and neighbours",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-10-03-weather-offtarget-neighbours.html#main-content",
+      "rationale": "Weather limits and off-target controls are product- and time-specific; an operational spray clip could become stale or unsafe.",
+      "visualEquivalent": {
+        "type": "off-target pathway and stop-confirm diagram",
+        "rationale": "The visual teaches risk relationships while returning every real limit to the current label and forecast."
+      }
+    },
+    {
+      "moduleId": "task-10-04",
+      "taskId": "task-10",
+      "taskNumber": 10,
+      "taskTitle": "Chemicals and weeds",
+      "moduleTitle": "Plan, calculate, record and report safely",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-10-04-plan-calculate-record-report.html#main-content",
+      "rationale": "A real chemical calculation or plan could be mistaken for application instruction.",
+      "visualEquivalent": {
+        "type": "fictional source-led calculation cards",
+        "rationale": "Abstract quantities preserve calculation practice without producing a usable application rate."
+      }
+    },
+    {
+      "moduleId": "task-11-01",
+      "taskId": "task-11",
+      "taskNumber": 11,
+      "taskTitle": "Environmentally sustainable work",
+      "moduleTitle": "Environmental hazards and pathways",
+      "outcome": "MATCHED",
+      "videoId": "OXk2P_kpUw8",
+      "theoryDeepLink": "modules/task-11-01-hazards-pathways.html#main-content",
+      "adjacentClaim": "Runoff can connect farm work to water quality, soil, habitat and neighbouring areas.",
+      "reasonToWatch": "Trace an environmental pathway through a real Australian farm-dam example.",
+      "watchFor": "Trace one pathway by which runoff could carry a farm-work impact into water or habitat.",
+      "helpsComplete": "The environmental hazard–pathway–receptor map."
+    },
+    {
+      "moduleId": "task-11-02",
+      "taskId": "task-11",
+      "taskNumber": 11,
+      "taskTitle": "Environmentally sustainable work",
+      "moduleTitle": "Protect soil, water, habitat and resources",
+      "outcome": "MATCHED",
+      "videoId": "OXk2P_kpUw8",
+      "theoryDeepLink": "modules/task-11-02-soil-water-habitat-waste.html#main-content",
+      "adjacentClaim": "Prevention and restoration choices can support water quality, vegetation and habitat together.",
+      "reasonToWatch": "Compare visible changes with the evidence needed to judge whether an improvement worked.",
+      "watchFor": "Which changes shown support both water quality and habitat, and what evidence could confirm improvement?",
+      "helpsComplete": "The soil/water/habitat control comparison."
+    },
+    {
+      "moduleId": "task-11-03",
+      "taskId": "task-11",
+      "taskNumber": 11,
+      "taskTitle": "Environmentally sustainable work",
+      "moduleTitle": "Measure resource use before improving it",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-11-03-measure-resource-use.html#main-content",
+      "rationale": "Resource-use improvement depends on comparing local measurements, which is an active data task rather than a video topic.",
+      "visualEquivalent": {
+        "type": "before-and-after fictional resource dashboard",
+        "rationale": "The visual makes units, baseline and comparison periods explicit."
+      }
+    },
+    {
+      "moduleId": "task-11-04",
+      "taskId": "task-11",
+      "taskNumber": 11,
+      "taskTitle": "Environmentally sustainable work",
+      "moduleTitle": "Report an incident and propose improvement",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-11-04-incident-improvement.html#main-content",
+      "rationale": "Immediate response and legal notification are incident- and jurisdiction-specific.",
+      "visualEquivalent": {
+        "type": "report-review-improve timeline",
+        "rationale": "A generic timeline separates immediate authorised action, factual reporting and later review without stating emergency steps."
+      }
+    },
+    {
+      "moduleId": "task-12-01",
+      "taskId": "task-12",
+      "taskNumber": 12,
+      "taskTitle": "Farm fencing",
+      "moduleTitle": "Fence purpose, specifications and site constraints",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-12-01-purpose-specifications-site.html#main-content",
+      "rationale": "Fence dimensions and site constraints belong to the current brief; generic construction footage could conflict with it.",
+      "visualEquivalent": {
+        "type": "annotated fictional fencing brief and site plan",
+        "rationale": "The visual keeps specification reading central without demonstrating construction."
+      }
+    },
+    {
+      "moduleId": "task-12-02",
+      "taskId": "task-12",
+      "taskNumber": 12,
+      "taskTitle": "Farm fencing",
+      "moduleTitle": "Materials, tools and risk planning",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-12-02-materials-tools-risk-plan.html#main-content",
+      "rationale": "Tool, machinery and tensioning demonstrations would cross the supervised-practical boundary.",
+      "visualEquivalent": {
+        "type": "materials-tools-risk-authority matrix",
+        "rationale": "The matrix links resources to hazards and authority checks without showing use."
+      }
+    },
+    {
+      "moduleId": "task-12-03",
+      "taskId": "task-12",
+      "taskNumber": 12,
+      "taskTitle": "Farm fencing",
+      "moduleTitle": "Work sequence, communication and quality checks",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-12-03-sequence-quality-checks.html#main-content",
+      "rationale": "A fencing sequence is design-, site- and equipment-specific and must come from the approved plan and demonstration.",
+      "visualEquivalent": {
+        "type": "supervised sequence with hold points",
+        "rationale": "The diagram teaches planning and quality checks without becoming a build procedure."
+      }
+    },
+    {
+      "moduleId": "task-12-04",
+      "taskId": "task-12",
+      "taskNumber": 12,
+      "taskTitle": "Farm fencing",
+      "moduleTitle": "Inspection, maintenance report and handover",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-12-04-inspection-report-handover.html#main-content",
+      "rationale": "Inspection and acceptance criteria are specification-controlled and best assessed from a stable fictional case.",
+      "visualEquivalent": {
+        "type": "condition photo map and handover report",
+        "rationale": "Students can distinguish completed work, defects and referral without seeing repair technique."
+      }
+    },
+    {
+      "moduleId": "task-13-01",
+      "taskId": "task-13",
+      "taskNumber": 13,
+      "taskTitle": "Electric fencing",
+      "moduleTitle": "Components and system concepts",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-13-01-components-system-concepts.html#main-content",
+      "rationale": "Electric-fence component videos commonly drift into wiring, earthing or energiser connection instruction.",
+      "visualEquivalent": {
+        "type": "non-operational system-relationship diagram",
+        "rationale": "A labelled relationship map supports concepts while showing no connections or installation steps."
+      }
+    },
+    {
+      "moduleId": "task-13-02",
+      "taskId": "task-13",
+      "taskNumber": 13,
+      "taskTitle": "Electric fencing",
+      "moduleTitle": "Hazards, isolation authority and exclusion",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-13-02-hazards-isolation-authority.html#main-content",
+      "rationale": "Isolation and live-system work require the approved design, manufacturer instructions and direct supervision.",
+      "visualEquivalent": {
+        "type": "stop-isolate-refer authority tree",
+        "rationale": "The visual emphasises exclusion and authority without stating an isolation procedure."
+      }
+    },
+    {
+      "moduleId": "task-13-03",
+      "taskId": "task-13",
+      "taskNumber": 13,
+      "taskTitle": "Electric fencing",
+      "moduleTitle": "Fault reasoning from observable evidence",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-13-03-fault-reasoning-evidence.html#main-content",
+      "rationale": "Fault-finding footage can normalise live testing or unsafe trial-and-error.",
+      "visualEquivalent": {
+        "type": "fictional symptom-evidence-escalation logic map",
+        "rationale": "Students reason from supplied evidence to the next safe referral point without testing a system."
+      }
+    },
+    {
+      "moduleId": "task-13-04",
+      "taskId": "task-13",
+      "taskNumber": 13,
+      "taskTitle": "Electric fencing",
+      "moduleTitle": "Planning, records and safe handover",
+      "outcome": "EXCEPTION",
+      "theoryDeepLink": "modules/task-13-04-plan-record-handover.html#main-content",
+      "rationale": "Planning and handover are record skills; a procedural electrical video adds risk without improving the evidence task.",
+      "visualEquivalent": {
+        "type": "electric-fence planning and handover record",
+        "rationale": "A fictional record keeps unresolved hazards, authority and next action visible."
+      }
+    }
+  ],
+  "integrationRequest": {
+    "scope": "Stage 12 only",
+    "request": "Copy the manifest and posters into the course build; render one adjacent click-to-load card for each MATCHED module and one library card per unique video ID. Keep EXCEPTION modules video-free and use their recorded visual equivalent.",
+    "navigation": "Retain the existing direct video-library.html route; this specialist does not edit shared navigation.",
+    "posterSourcePath": "work/pi/videos/posters",
+    "manifestSourcePath": "work/pi/videos/video-manifest.json"
+  },
+  "publication": {
+    "authorised": false,
+    "state": "local only",
+    "note": "No output site, repository, deployment or live navigation was changed by Stage 08."
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "schemaVersion": "1.0.0",
+  "course": "AHC20122 Primary Industries",
+  "generatedAt": "2026-08-21T10:03:42.935Z",
+  "webDeckContract": "Eight slides: purpose, map, three taught ideas, retrieval, constructed response and exit application.",
+  "taskDeckContract": "Ten slides: combined title and route, two slides per module, then closing application and source boundary.",
+  "webDecks": [
+    {
+      "taskId": "task-01",
+      "moduleId": "task-01-01",
+      "data": "web-decks/data/task-01-01.json",
+      "route": "web-decks/routes/task-01-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-01",
+      "moduleId": "task-01-02",
+      "data": "web-decks/data/task-01-02.json",
+      "route": "web-decks/routes/task-01-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-01",
+      "moduleId": "task-01-03",
+      "data": "web-decks/data/task-01-03.json",
+      "route": "web-decks/routes/task-01-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-01",
+      "moduleId": "task-01-04",
+      "data": "web-decks/data/task-01-04.json",
+      "route": "web-decks/routes/task-01-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-02",
+      "moduleId": "task-02-01",
+      "data": "web-decks/data/task-02-01.json",
+      "route": "web-decks/routes/task-02-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-02",
+      "moduleId": "task-02-02",
+      "data": "web-decks/data/task-02-02.json",
+      "route": "web-decks/routes/task-02-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-02",
+      "moduleId": "task-02-03",
+      "data": "web-decks/data/task-02-03.json",
+      "route": "web-decks/routes/task-02-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-02",
+      "moduleId": "task-02-04",
+      "data": "web-decks/data/task-02-04.json",
+      "route": "web-decks/routes/task-02-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-03",
+      "moduleId": "task-03-01",
+      "data": "web-decks/data/task-03-01.json",
+      "route": "web-decks/routes/task-03-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-03",
+      "moduleId": "task-03-02",
+      "data": "web-decks/data/task-03-02.json",
+      "route": "web-decks/routes/task-03-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-03",
+      "moduleId": "task-03-03",
+      "data": "web-decks/data/task-03-03.json",
+      "route": "web-decks/routes/task-03-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-03",
+      "moduleId": "task-03-04",
+      "data": "web-decks/data/task-03-04.json",
+      "route": "web-decks/routes/task-03-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-04",
+      "moduleId": "task-04-01",
+      "data": "web-decks/data/task-04-01.json",
+      "route": "web-decks/routes/task-04-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-04",
+      "moduleId": "task-04-02",
+      "data": "web-decks/data/task-04-02.json",
+      "route": "web-decks/routes/task-04-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-04",
+      "moduleId": "task-04-03",
+      "data": "web-decks/data/task-04-03.json",
+      "route": "web-decks/routes/task-04-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-04",
+      "moduleId": "task-04-04",
+      "data": "web-decks/data/task-04-04.json",
+      "route": "web-decks/routes/task-04-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-05",
+      "moduleId": "task-05-01",
+      "data": "web-decks/data/task-05-01.json",
+      "route": "web-decks/routes/task-05-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-05",
+      "moduleId": "task-05-02",
+      "data": "web-decks/data/task-05-02.json",
+      "route": "web-decks/routes/task-05-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-05",
+      "moduleId": "task-05-03",
+      "data": "web-decks/data/task-05-03.json",
+      "route": "web-decks/routes/task-05-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-05",
+      "moduleId": "task-05-04",
+      "data": "web-decks/data/task-05-04.json",
+      "route": "web-decks/routes/task-05-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-06",
+      "moduleId": "task-06-01",
+      "data": "web-decks/data/task-06-01.json",
+      "route": "web-decks/routes/task-06-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-06",
+      "moduleId": "task-06-02",
+      "data": "web-decks/data/task-06-02.json",
+      "route": "web-decks/routes/task-06-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-06",
+      "moduleId": "task-06-03",
+      "data": "web-decks/data/task-06-03.json",
+      "route": "web-decks/routes/task-06-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-06",
+      "moduleId": "task-06-04",
+      "data": "web-decks/data/task-06-04.json",
+      "route": "web-decks/routes/task-06-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-07",
+      "moduleId": "task-07-01",
+      "data": "web-decks/data/task-07-01.json",
+      "route": "web-decks/routes/task-07-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-07",
+      "moduleId": "task-07-02",
+      "data": "web-decks/data/task-07-02.json",
+      "route": "web-decks/routes/task-07-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-07",
+      "moduleId": "task-07-03",
+      "data": "web-decks/data/task-07-03.json",
+      "route": "web-decks/routes/task-07-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-07",
+      "moduleId": "task-07-04",
+      "data": "web-decks/data/task-07-04.json",
+      "route": "web-decks/routes/task-07-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-08",
+      "moduleId": "task-08-01",
+      "data": "web-decks/data/task-08-01.json",
+      "route": "web-decks/routes/task-08-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-08",
+      "moduleId": "task-08-02",
+      "data": "web-decks/data/task-08-02.json",
+      "route": "web-decks/routes/task-08-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-08",
+      "moduleId": "task-08-03",
+      "data": "web-decks/data/task-08-03.json",
+      "route": "web-decks/routes/task-08-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-08",
+      "moduleId": "task-08-04",
+      "data": "web-decks/data/task-08-04.json",
+      "route": "web-decks/routes/task-08-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-09",
+      "moduleId": "task-09-01",
+      "data": "web-decks/data/task-09-01.json",
+      "route": "web-decks/routes/task-09-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-09",
+      "moduleId": "task-09-02",
+      "data": "web-decks/data/task-09-02.json",
+      "route": "web-decks/routes/task-09-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-09",
+      "moduleId": "task-09-03",
+      "data": "web-decks/data/task-09-03.json",
+      "route": "web-decks/routes/task-09-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-09",
+      "moduleId": "task-09-04",
+      "data": "web-decks/data/task-09-04.json",
+      "route": "web-decks/routes/task-09-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-10",
+      "moduleId": "task-10-01",
+      "data": "web-decks/data/task-10-01.json",
+      "route": "web-decks/routes/task-10-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-10",
+      "moduleId": "task-10-02",
+      "data": "web-decks/data/task-10-02.json",
+      "route": "web-decks/routes/task-10-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-10",
+      "moduleId": "task-10-03",
+      "data": "web-decks/data/task-10-03.json",
+      "route": "web-decks/routes/task-10-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-10",
+      "moduleId": "task-10-04",
+      "data": "web-decks/data/task-10-04.json",
+      "route": "web-decks/routes/task-10-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-11",
+      "moduleId": "task-11-01",
+      "data": "web-decks/data/task-11-01.json",
+      "route": "web-decks/routes/task-11-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-11",
+      "moduleId": "task-11-02",
+      "data": "web-decks/data/task-11-02.json",
+      "route": "web-decks/routes/task-11-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-11",
+      "moduleId": "task-11-03",
+      "data": "web-decks/data/task-11-03.json",
+      "route": "web-decks/routes/task-11-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-11",
+      "moduleId": "task-11-04",
+      "data": "web-decks/data/task-11-04.json",
+      "route": "web-decks/routes/task-11-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-12",
+      "moduleId": "task-12-01",
+      "data": "web-decks/data/task-12-01.json",
+      "route": "web-decks/routes/task-12-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-12",
+      "moduleId": "task-12-02",
+      "data": "web-decks/data/task-12-02.json",
+      "route": "web-decks/routes/task-12-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-12",
+      "moduleId": "task-12-03",
+      "data": "web-decks/data/task-12-03.json",
+      "route": "web-decks/routes/task-12-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-12",
+      "moduleId": "task-12-04",
+      "data": "web-decks/data/task-12-04.json",
+      "route": "web-decks/routes/task-12-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-13",
+      "moduleId": "task-13-01",
+      "data": "web-decks/data/task-13-01.json",
+      "route": "web-decks/routes/task-13-01.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-13",
+      "moduleId": "task-13-02",
+      "data": "web-decks/data/task-13-02.json",
+      "route": "web-decks/routes/task-13-02.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-13",
+      "moduleId": "task-13-03",
+      "data": "web-decks/data/task-13-03.json",
+      "route": "web-decks/routes/task-13-03.html",
+      "slides": 8,
+      "speakerNotes": true
+    },
+    {
+      "taskId": "task-13",
+      "moduleId": "task-13-04",
+      "data": "web-decks/data/task-13-04.json",
+      "route": "web-decks/routes/task-13-04.html",
+      "slides": 8,
+      "speakerNotes": true
+    }
+  ],
+  "taskDecks": [
+    {
+      "taskId": "task-01",
+      "taskNumber": 1,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-01-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-01",
+      "layoutFolder": "qa/layouts/task-01",
+      "montage": "qa/montages/task-01-montage.png",
+      "artifactMontage": "qa/montages/task-01-montage.webp",
+      "sha256": "e0dddea9d9e146cee3db2d53f0a9febfd17e2095a089bd4db6b05ca366a7a3c1"
+    },
+    {
+      "taskId": "task-02",
+      "taskNumber": 2,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-02-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-02",
+      "layoutFolder": "qa/layouts/task-02",
+      "montage": "qa/montages/task-02-montage.png",
+      "artifactMontage": "qa/montages/task-02-montage.webp",
+      "sha256": "ea630aa4ecb69f7ae9aa6877c62fcb21fee0d0c35455cb39e39beacda18c76fd"
+    },
+    {
+      "taskId": "task-03",
+      "taskNumber": 3,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-03-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-03",
+      "layoutFolder": "qa/layouts/task-03",
+      "montage": "qa/montages/task-03-montage.png",
+      "artifactMontage": "qa/montages/task-03-montage.webp",
+      "sha256": "67871be47c7dab3fc33f0fab0db0ea06b83e507602a8876a20f5fbd7ed29a53a"
+    },
+    {
+      "taskId": "task-04",
+      "taskNumber": 4,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-04-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-04",
+      "layoutFolder": "qa/layouts/task-04",
+      "montage": "qa/montages/task-04-montage.png",
+      "artifactMontage": "qa/montages/task-04-montage.webp",
+      "sha256": "fb7ff1339d4005f11b5bc48bad15adea50b7e61f8031f6a8c06c693b02ed013b"
+    },
+    {
+      "taskId": "task-05",
+      "taskNumber": 5,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-05-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-05",
+      "layoutFolder": "qa/layouts/task-05",
+      "montage": "qa/montages/task-05-montage.png",
+      "artifactMontage": "qa/montages/task-05-montage.webp",
+      "sha256": "eced7cf7b737c5f95ea75a802f30eeed3436785e90c2055629618494cb9b5fc0"
+    },
+    {
+      "taskId": "task-06",
+      "taskNumber": 6,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-06-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-06",
+      "layoutFolder": "qa/layouts/task-06",
+      "montage": "qa/montages/task-06-montage.png",
+      "artifactMontage": "qa/montages/task-06-montage.webp",
+      "sha256": "e0f2575b1b22ed556a5752628afef15927a73b7f9d4d2f700bac83ae1c1a1948"
+    },
+    {
+      "taskId": "task-07",
+      "taskNumber": 7,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-07-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-07",
+      "layoutFolder": "qa/layouts/task-07",
+      "montage": "qa/montages/task-07-montage.png",
+      "artifactMontage": "qa/montages/task-07-montage.webp",
+      "sha256": "144b331ad37f475ff126a3cecb78ed34c47583d5eca50ce372553e4e39033418"
+    },
+    {
+      "taskId": "task-08",
+      "taskNumber": 8,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-08-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-08",
+      "layoutFolder": "qa/layouts/task-08",
+      "montage": "qa/montages/task-08-montage.png",
+      "artifactMontage": "qa/montages/task-08-montage.webp",
+      "sha256": "af33581d938a6a9e77370db8e466b4cc0acb83c031ff253d4adfdc722582909b"
+    },
+    {
+      "taskId": "task-09",
+      "taskNumber": 9,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-09-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-09",
+      "layoutFolder": "qa/layouts/task-09",
+      "montage": "qa/montages/task-09-montage.png",
+      "artifactMontage": "qa/montages/task-09-montage.webp",
+      "sha256": "4bfc2847708e689e07ceb013914d658c08d61e198e832f404e97569cac1df8bb"
+    },
+    {
+      "taskId": "task-10",
+      "taskNumber": 10,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-10-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-10",
+      "layoutFolder": "qa/layouts/task-10",
+      "montage": "qa/montages/task-10-montage.png",
+      "artifactMontage": "qa/montages/task-10-montage.webp",
+      "sha256": "feb396a9b6c7b8ec0cb41fac0ca3eec6905b4959ca85e45d66b3218c0595df2a"
+    },
+    {
+      "taskId": "task-11",
+      "taskNumber": 11,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-11-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-11",
+      "layoutFolder": "qa/layouts/task-11",
+      "montage": "qa/montages/task-11-montage.png",
+      "artifactMontage": "qa/montages/task-11-montage.webp",
+      "sha256": "5fa1145bb054d20c4d656a449d031f172d44017308115cd09281b1d271af6c7c"
+    },
+    {
+      "taskId": "task-12",
+      "taskNumber": 12,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-12-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-12",
+      "layoutFolder": "qa/layouts/task-12",
+      "montage": "qa/montages/task-12-montage.png",
+      "artifactMontage": "qa/montages/task-12-montage.webp",
+      "sha256": "7b458a22beeaec14eb9eea90e50842f5a2bf3ccdf6ee628daa9ad4a6451bc7a8"
+    },
+    {
+      "taskId": "task-13",
+      "taskNumber": 13,
+      "path": "task-decks/AHC20122-Primary-Industries-Task-13-Teaching-Deck-v1.pptx",
+      "slides": 10,
+      "moduleSections": 4,
+      "speakerNotes": true,
+      "renderFolder": "qa/renders/task-13",
+      "layoutFolder": "qa/layouts/task-13",
+      "montage": "qa/montages/task-13-montage.png",
+      "artifactMontage": "qa/montages/task-13-montage.webp",
+      "sha256": "a40232e06d9e012607db5c3723d5a6666f01dec7faee5d26c0e52b62ad9361a8"
+    }
+  ],
+  "sourceBoundary": "This site provides supplementary learning and formative practice. Only the authorised RTO assessment process and a qualified assessor can determine competency.",
+  "publication": false
+}

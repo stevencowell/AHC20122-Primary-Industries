@@ -1,0 +1,453 @@
+{
+  "schemaVersion": "1.0.0",
+  "stage": "11-tas-build-assessment",
+  "buildId": "pi-2026-v1",
+  "generatedAt": "2026-08-21T07:48:49.523Z",
+  "status": "local supplementary assessment-orientation package",
+  "course": {
+    "title": "Primary Industries",
+    "qualificationCode": "AHC20122",
+    "qualificationTitle": "Certificate II in Agriculture",
+    "cohort": "2026-2027",
+    "framework": "NESA Primary Industries Curriculum Framework based on AHCv11",
+    "hscHours": 240,
+    "workPlacementHours": 70
+  },
+  "purpose": "Help students distinguish supplementary learning, authorised RTO competency assessment, HSC examination and work-placement records, then reach the current controlled system named by their teacher/RTO.",
+  "boundaries": {
+    "supplementarySite": "This site provides supplementary learning and formative practice. Only the authorised RTO assessment process and a qualified assessor can determine competency.",
+    "learningRecord": "Saved website checks and activities are formative learning records, not RTO submissions, work-placement hours or competency decisions.",
+    "hscExam": "The external HSC examination reports achievement against HSC examination standards; it does not by itself determine RTO competency or qualification eligibility.",
+    "taskGroupNumbering": "Learning group numbers organise this website only. They do not assert formal assessment task numbering.",
+    "controlledAuthority": "The current signed TAS, RTO student task, approved notification and authorised system control every formal assessment detail."
+  },
+  "scheduleState": {
+    "current2026HandbookLocated": true,
+    "containsPrimaryIndustries": true,
+    "transcribedIntoPublicPackage": false,
+    "status": "Formal notification not yet added — Teacher/RTO to confirm",
+    "rationale": "The package spans the 2026–2027 cohort and no current approved notification set was supplied for public reproduction."
+  },
+  "controlledDestinations": [
+    {
+      "id": "classroom",
+      "title": "Google Classroom",
+      "url": "https://classroom.google.com/u/1/w/ODQzMTU0NTk4NTk5/t/all?pli=1",
+      "audience": "Students and staff with the authorised school account",
+      "purpose": "Teacher-posted current instructions, announcements and class resources",
+      "accessState": "Authentication required",
+      "studentDirection": "Use the post or assignment named by your teacher. A website task-group number is not a formal assessment number.",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 302,
+        "contentType": "application/binary",
+        "accessInterpretation": "Endpoint responded with an authentication or service redirect."
+      }
+    },
+    {
+      "id": "evidence-central",
+      "title": "Evidence Central",
+      "url": "https://evidencecentral.info/course/view.php?id=519",
+      "audience": "Students and authorised assessors using the school/RTO sign-in",
+      "purpose": "Controlled course, evidence, feedback or result functions when the teacher/RTO directs",
+      "accessState": "Microsoft school sign-in required",
+      "studentDirection": "Use only the course area and action specified by the teacher/RTO. This site does not confirm receipt or assessment status.",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 303,
+        "contentType": "text/html; charset=utf-8",
+        "accessInterpretation": "Endpoint responded with an authentication or service redirect."
+      }
+    },
+    {
+      "id": "google-drive",
+      "title": "Authorised Google Drive folder",
+      "url": "https://drive.google.com/drive/folders/1P0_4WEDvCfiH1QcVwHiSmRmOBXbn2SViERA35vJkkQtSt-gyfN4ILvHB1kuteNKkbsycyjBd",
+      "audience": "Access-approved students or staff",
+      "purpose": "Controlled source files retained outside the public website",
+      "accessState": "Access-controlled; folder identity rechecked through the connected Drive service",
+      "studentDirection": "Open only files your teacher has directed you to use. Do not assume an older file is current.",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=utf-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    },
+    {
+      "id": "rto-powerapps",
+      "title": "RTO VET Training assets",
+      "url": "https://apps.powerapps.com/play/e/default-05a0e69a-418a-47c1-9c25-9387261bf991/a/5a20f480-9b58-422b-b013-303698367f68?tenantId=05a0e69a-418a-47c1-9c25-9387261bf991",
+      "audience": "Authorised school/RTO users; student use only when directed",
+      "purpose": "Controlled RTO training and assessment assets",
+      "accessState": "Microsoft tenant sign-in and app permissions required",
+      "studentDirection": "Do not copy assessor-only material. Ask the teacher/RTO which current student document applies.",
+      "method": "GET",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "GET",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=utf-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    }
+  ],
+  "officialSources": [
+    {
+      "id": "tga-ahc20122-r2",
+      "label": "AHC20122 Certificate II in Agriculture — Release 2",
+      "organisation": "training.gov.au",
+      "url": "https://training.gov.au/assets/AHC/AHC20122_R2.pdf",
+      "purpose": "National qualification identity and packaging rules",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "application/pdf",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    },
+    {
+      "id": "nesa-primary-industries",
+      "label": "Primary Industries Curriculum Framework",
+      "organisation": "NSW Education Standards Authority",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/vet/stage-6-industry-curriculum-frameworks/primary-industries",
+      "purpose": "Current NSW HSC VET framework entry point",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    },
+    {
+      "id": "nesa-assessment-reporting",
+      "label": "Assessment and reporting in Primary Industries",
+      "organisation": "NSW Education Standards Authority",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/vet/stage-6-industry-curriculum-frameworks/primary-industries/assessment-and-reporting",
+      "purpose": "Competency-based assessment and external HSC examination boundary",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    },
+    {
+      "id": "nesa-work-placement",
+      "label": "Work placement in Primary Industries",
+      "organisation": "NSW Education Standards Authority",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/vet/stage-6-industry-curriculum-frameworks/primary-industries/work-placement",
+      "purpose": "Mandatory HSC work-placement requirement",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    },
+    {
+      "id": "wwhs-handbook-hub",
+      "label": "Wagga Wagga High School Assessment Handbooks",
+      "organisation": "Wagga Wagga High School",
+      "url": "https://sites.google.com/education.nsw.gov.au/wwhsstudentparentinformation/curriculum-information/assessment-handbooks",
+      "purpose": "Current cohort assessment policy and schedule entry point",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=utf-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    },
+    {
+      "id": "wwhs-2026-hsc-booklet",
+      "label": "2026 HSC Assessment Booklet",
+      "organisation": "Wagga Wagga High School",
+      "url": "https://drive.google.com/file/d/13EdLGvIR7kAJsV2aHnhwJTcqZDD5CmjG/view?usp=sharing",
+      "purpose": "Current Year 12 HSC cohort handbook; contains Primary Industries",
+      "method": "HEAD",
+      "currentVerification": {
+        "checkedAt": "2026-08-21T07:48:49.523Z",
+        "method": "HEAD",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=utf-8",
+        "accessInterpretation": "Endpoint responded successfully."
+      }
+    }
+  ],
+  "taskCards": [
+    {
+      "id": "task-01",
+      "sequenceNumber": 1,
+      "displayLabel": "Learning group 01",
+      "title": "WHS and farm readiness",
+      "units": [
+        "AHCWHS202"
+      ],
+      "orientation": "Recognise farm hazards, reason about risk, choose controls within authority and communicate safety concerns before work begins.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-02",
+      "sequenceNumber": 2,
+      "displayLabel": "Learning group 02",
+      "title": "Communicate and work effectively",
+      "units": [
+        "AHCWRK212",
+        "AHCWRK213"
+      ],
+      "orientation": "Clarify instructions, organise routine work, complete useful workplace records and contribute respectfully to a team.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-03",
+      "sequenceNumber": 3,
+      "displayLabel": "Learning group 03",
+      "title": "Operate tractors",
+      "units": [
+        "AHCMOM202"
+      ],
+      "orientation": "Prepare for supervised tractor work by matching task, machine, terrain and conditions, then documenting checks and concerns.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-04",
+      "sequenceNumber": 4,
+      "displayLabel": "Learning group 04",
+      "title": "Biosecurity",
+      "units": [
+        "AHCBIO203"
+      ],
+      "orientation": "Recognise contamination pathways, inspect machinery and equipment, plan a controlled clean-down and keep traceable records.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-05",
+      "sequenceNumber": 5,
+      "displayLabel": "Learning group 05",
+      "title": "Handle and observe livestock",
+      "units": [
+        "AHCLSK224",
+        "AHCLSK223"
+      ],
+      "orientation": "Read livestock behaviour, plan roles and movement, observe condition and communicate changes during supervised work.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-06",
+      "sequenceNumber": 6,
+      "displayLabel": "Learning group 06",
+      "title": "Care for livestock",
+      "units": [
+        "AHCLSK222"
+      ],
+      "orientation": "Observe health and welfare indicators, report concerns, understand authorised response pathways and maintain accurate records.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-07",
+      "sequenceNumber": 7,
+      "displayLabel": "Learning group 07",
+      "title": "Feed livestock",
+      "units": [
+        "AHCLSK229"
+      ],
+      "orientation": "Use observations, feed-quality evidence, supervised planning and clear records to support livestock feeding work.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-08",
+      "sequenceNumber": 8,
+      "displayLabel": "Learning group 08",
+      "title": "Identify and mark livestock",
+      "units": [
+        "AHCLSK225"
+      ],
+      "orientation": "Understand traceability, plan a supervised identification task and reconcile physical identification with workplace records.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-09",
+      "sequenceNumber": 9,
+      "displayLabel": "Learning group 09",
+      "title": "Weather",
+      "units": [
+        "AHCWRK210"
+      ],
+      "orientation": "Observe weather, judge source quality, interpret forecasts and warnings, and communicate task-related decisions.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-10",
+      "sequenceNumber": 10,
+      "displayLabel": "Learning group 10",
+      "title": "Chemicals and weeds",
+      "units": [
+        "AHCCHM201",
+        "AHCPMG201"
+      ],
+      "orientation": "Find and interpret the authorised source, recognise weeds and control options, reason about off-target risk and complete planning records.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-11",
+      "sequenceNumber": 11,
+      "displayLabel": "Learning group 11",
+      "title": "Environmentally sustainable work",
+      "units": [
+        "AHCWRK211"
+      ],
+      "orientation": "Recognise environmental pathways, measure resource use, report incidents and propose practical improvements within authority.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-12",
+      "sequenceNumber": 12,
+      "displayLabel": "Learning group 12",
+      "title": "Farm fencing",
+      "units": [
+        "AHCINF206"
+      ],
+      "orientation": "Read a fencing brief, plan resources and sequence, recognise hazards, and evaluate work against specifications.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    },
+    {
+      "id": "task-13",
+      "sequenceNumber": 13,
+      "displayLabel": "Learning group 13",
+      "title": "Electric fencing",
+      "units": [
+        "AHCINF205"
+      ],
+      "orientation": "Understand electric-fence system relationships, recognise hazards, reason from observable fault evidence and document a controlled plan.",
+      "assessmentStatus": "Formal notification not yet added — Teacher/RTO to confirm",
+      "formalNotificationRoute": null,
+      "assessmentInstrumentRoute": null,
+      "authorisedDestinations": [
+        "classroom",
+        "evidence-central"
+      ],
+      "boundary": "Use this website for supplementary learning and formative practice. Check the current authorised notice and teacher/RTO direction before any formal assessment action."
+    }
+  ],
+  "counts": {
+    "taskOrientationCards": 13,
+    "controlledDestinations": 4,
+    "officialSourceLinks": 6,
+    "formalNotificationsIncluded": 0,
+    "assessmentInstrumentsIncluded": 0,
+    "assessorOnlyArtifactsIncluded": 0
+  },
+  "integrationRequest": {
+    "owner": "Stage 12",
+    "route": "assessment-support.html",
+    "dataSource": "work/pi/assessment/assessment-manifest.json",
+    "htmlSource": "work/pi/assessment/assessment-support.html",
+    "cssSource": "work/pi/assessment/assessment-support.css",
+    "request": "Copy the accepted orientation route into the site shell, preserve all controlled-destination and missing-notification labels, and add course-home/Main Menu navigation without exposing controlled content."
+  },
+  "publication": {
+    "authorised": false,
+    "state": "local only",
+    "note": "No output site, repository or deployment was changed."
+  }
+}
