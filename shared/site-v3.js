@@ -132,6 +132,13 @@
 
   document.querySelectorAll("[data-print]").forEach(function (button) { button.addEventListener("click", function () { window.print(); }); });
 
+  document.querySelectorAll("figure.visual-block.learning-photo").forEach(function (figure, index) {
+    if (figure.classList.contains("learning-photo--left") || figure.classList.contains("learning-photo--right")) return;
+    const requestedSide = (figure.dataset.align || "").toLowerCase();
+    const side = requestedSide === "left" || requestedSide === "right" ? requestedSide : (index % 2 === 0 ? "right" : "left");
+    figure.classList.add("learning-photo--" + side);
+  });
+
   const lightbox = document.createElement("dialog");
   lightbox.className = "visual-lightbox";
   lightbox.innerHTML = '<button type="button" class="lightbox-close">Close</button><img alt=""><p></p>';
@@ -145,7 +152,7 @@
     lightbox.showModal();
     lightbox.querySelector("button").focus();
   }
-  document.querySelectorAll("figure.visual-block > img, .lesson-visual > img").forEach(function (image) {
+  document.querySelectorAll("figure.visual-block > img, figure.visual-block.learning-photo picture > img, .lesson-visual > img").forEach(function (image) {
     image.tabIndex = 0;
     image.setAttribute("role", "button");
     image.setAttribute("aria-label", (image.alt || "Course visual") + ". Open larger.");

@@ -124,6 +124,16 @@ figure.visual-block { margin-inline: 0; }
 .visual-block img { display: block; width: min(100%, 880px); height: auto; margin: 0 auto; border-radius: 9px; cursor: zoom-in; }
 .visual-block figcaption { max-width: 820px; margin: 12px auto 0; color: var(--muted); font-size: .9rem; text-align: center; }
 .visual-block figcaption a { font-weight: 800; }
+figure.visual-block.learning-photo { box-sizing: border-box; float: right; width: min(42%,360px); margin: 3px 0 20px 26px; padding: 0; overflow: hidden; border-color: #b9ced2; background: #fff; box-shadow: 0 7px 20px rgba(20,42,50,.11); }
+figure.visual-block.learning-photo.learning-photo--left { float: left; margin-right: 26px; margin-left: 0; }
+figure.visual-block.learning-photo.learning-photo--right { float: right; margin-right: 0; margin-left: 26px; }
+.learning-photo-clear { clear: both; height: 0; }
+figure.visual-block.learning-photo > img,
+figure.visual-block.learning-photo > picture,
+figure.visual-block.learning-photo > picture > img { display: block; width: 100%; max-width: none; height: auto; margin: 0; border-radius: 0; object-fit: contain; background: #edf5f5; }
+figure.visual-block.learning-photo > figcaption { max-width: none; margin: 0; padding: 12px 14px 14px; color: var(--ink); background: #fff; font-size: .86rem; line-height: 1.5; text-align: left; }
+figure.visual-block.learning-photo > figcaption strong { color: var(--teal-dark); }
+figure.visual-block.learning-photo > figcaption a { min-height: 44px; display: inline-flex; align-items: center; margin-bottom: -10px; }
 .visual-scroll-hint { display: none; }
 .lesson-visual-scroll { min-width: 0; }
 .visual-dialog { width: min(96vw, 1200px); max-height: 94vh; padding: 50px 18px 18px; border: 0; border-radius: 16px; background: #fff; box-shadow: 0 20px 80px rgba(0,0,0,.35); }
@@ -504,6 +514,13 @@ th { color: var(--teal-dark); background: #eaf3f4; }
   .lesson-visual-scroll img { width: 700px; max-width: none; margin: 0; }
   .theory-section-visual, .theory-section-visual--left, .theory-section-visual--right { float: none; width: 100%; max-width: none; margin: 0 0 20px; }
   .theory-section-visual figcaption { padding: 12px 14px; font-size: .88rem; }
+}
+
+@media (max-width: 760px) {
+  figure.visual-block.learning-photo,
+  figure.visual-block.learning-photo.learning-photo--left,
+  figure.visual-block.learning-photo.learning-photo--right { float: none; width: 100%; max-width: none; margin: 18px 0 22px; }
+  figure.visual-block.learning-photo > figcaption { padding: 13px 14px 15px; font-size: .9rem; }
 }
 
 @media (max-width: 520px) {
