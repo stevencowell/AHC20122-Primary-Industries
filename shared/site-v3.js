@@ -44,8 +44,7 @@
       ["activities", "Activities", "activities.html"],
       ["learning-record", "Learning Record", "learning-record.html"],
       ["progress", "Progress", "progress.html"],
-      ["resources", "Resources", "resources.html"],
-      ["teacher", "Teacher", "teacher-resources.html"]
+      ["resources", "Resources", "resources.html"]
     ];
     const header = document.createElement("header");
     header.className = "site-header";
@@ -56,6 +55,7 @@
       '<button class="menu-button" type="button" aria-expanded="false" aria-controls="site-navigation">Menu</button>' +
       '<nav class="site-nav" id="site-navigation" aria-label="Course navigation">' +
       navItems.map(function (item) { return '<a href="' + local(item[2]) + '"' + (item[0] === page ? ' aria-current="page"' : '') + '>' + item[1] + '</a>'; }).join("") +
+      '<a href="https://stevencowell.github.io/primary-industries-statewide-staffroom-teacher-resources/" target="_blank" rel="noopener">Teacher Resources</a>' +
       '<a href="https://stevencowell.github.io/Main-Page/">Main Menu</a></nav></div>';
     document.body.prepend(header);
 
